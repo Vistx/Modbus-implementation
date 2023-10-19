@@ -1,18 +1,35 @@
 #include <Arduino.h>
+#include <ModbusRtu.h>
+#include <HCSR04.h>
+#define TXEN  4
 
-// put function declarations here:
-int myFunction(int, int);
+
+int delay_time_interval=60;
+unsigned long previousMillis = 0;
+Modbus slave(1,Serial,TXEN); //Slave ID-ja 1
+HCSR04 hc(5,18); 
+
+
+uint16_t au16data[16] = {0, 0,0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+Serial.begin( 115200 ); 
+slave.start();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
+    slave.poll( au16data, 16 );
+unsigned long currentMillis = millis();
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+  if (currentMillis - previousMillis >= delay_time_interval) { //don't use delay functions with Modbus Rtu Update the readings using millis()
+    previousMillis = currentMillis; 
+    
+    au16data[0]=hc.dist();
+
+    }
+    
+   
+    
+
+
 }
