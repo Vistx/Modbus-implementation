@@ -1,0 +1,41 @@
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus_Art_Projekt_.Form1.resources
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus_Art_Projekt_.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\bin\Debug\NModBus(Art Projekt).exe.config
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\bin\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\bin\Debug\NModBus(Art Projekt).pdb
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).csproj.CopyComplete
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).pdb
+C:\Users\Lenovo\Desktop\nModbus4\Artmodbus\NModBus(Art Projekt)\obj\Debug\NModBus(Art Projekt).csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus_Art_Projekt_.Form1.resources
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus_Art_Projekt_.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).pdb
+C:\Users\Lenovo\Desktop\btr\bin\Debug\NModBus(Art Projekt).exe.config
+C:\Users\Lenovo\Desktop\btr\bin\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\btr\bin\Debug\NModBus(Art Projekt).pdb
+C:\Users\Lenovo\Desktop\btr\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\btr\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).csproj.CopyComplete
+C:\Users\Lenovo\Desktop\btr\bin\Debug\EasyPID.dll
+C:\Users\Lenovo\Desktop\btr\obj\Debug\NModBus(Art Projekt).csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\NModBus(Art Projekt).exe.config
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\NModBus(Art Projekt).pdb
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\EasyPID.dll
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus_Art_Projekt_.Form1.resources
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus_Art_Projekt_.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).csproj.CopyComplete
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).exe
+C:\Users\Lenovo\Desktop\art\Btr projekti(MOdbus RTU)\modbus (Art)\btr\obj\Debug\NModBus(Art Projekt).pdb

@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\bin\Debug\HCSR04DisplayReadings.exe.config
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\bin\Debug\HCSR04DisplayReadings.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\bin\Debug\HCSR04DisplayReadings.pdb
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.Form1.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.pdb
+C:\Users\Lenovo\Desktop\Modbus implementation\Example2\HCSR04DisplayReadings\obj\Debug\HCSR04DisplayReadings.csproj.AssemblyReference.cache
