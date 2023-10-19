@@ -1,18 +1,24 @@
 #include <Arduino.h>
+#include <ModbusRtu.h>
+#define TXEN  4 //DEFINE TRANSMIT ENABLE PIN
 
-// put function declarations here:
-int myFunction(int, int);
+Modbus slave(1,Serial,TXEN); //(Slave,Hardware serial,Transmit enable pin)
+
+
+
+uint16_t au16data[16] = {0, 0,0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0 }; //16 REGISTERS FROM 0 TO 15
 
 void setup() {
-  // put your setup code here, to run once:
-  int result = myFunction(2, 3);
+Serial.begin( 115200 ); //BAUDRATE 
+slave.start(); 
+
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-}
+  
 
-// put function definitions here:
-int myFunction(int x, int y) {
-  return x + y;
+    slave.poll( au16data, 16 ); //REGISTER QUERRY
+    //!!!!DO NOT USE DELAY FUNCTION ,IT CAUSES ERRORS WHEN THE MASTER DEVICE REQUESTS AN REGISTER
+    //!!!ALSO DO NOT USE SERIAL PRINT OR OPEN SERIAL MONITOR WHILE YOU ARE RUNNING THE DEVICE IN SLAVE MODE
+
 }
