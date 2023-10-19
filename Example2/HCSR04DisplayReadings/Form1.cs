@@ -57,7 +57,7 @@ namespace HCSR04DisplayReadings
                 richTextBox1.AppendText("Connected to COM as Master");
                 shk_btn.Enabled = true;
                 l_btn.Enabled = false;
-                
+                timer1.Interval = Int16.Parse(timer_int_box.Text);
                 timer1.Start();
             }
             catch (Exception)
