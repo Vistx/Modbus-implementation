@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\bin\Debug\SimpleFunctionGui.exe.config
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\bin\Debug\SimpleFunctionGui.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\bin\Debug\SimpleFunctionGui.pdb
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\bin\Debug\NModbus4.dll
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\bin\Debug\NModbus4.xml
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.Form1.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Simple_Example\SimpleFunctionGui\obj\Debug\SimpleFunctionGui.pdb
