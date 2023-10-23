@@ -73,7 +73,7 @@ Connect  the max 485 module to the ESP 32 like so :
 
 
 # Code Explanation and Important Details 
-`On the ESP32 side of the code, the serial begin baudrate must match  the selected baudrate  in the GUI application. `
+`On the ESP32 side of the code, the serial begin baudrate must match  the selected baudrate  in the GUI application. Also the COMport must be in use by other software `
 
 `Also, the slave ID in the ESP32  must match the ID of the called function in C# .  `
 
