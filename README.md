@@ -82,6 +82,22 @@ Connect  the max 485 module to the ESP 32 like so :
  `Technically, you can connect over 240 slave devices on the same serial connection, all you have to do is change the slave ID for each one and call the specific device by that unique ID from the GUI.`
 
 # Example 1
+
+**Wiring**
+
+![Example 1 Pinoutres](https://github.com/Vistx/Modbus-implementation/assets/123487221/5b3c8281-07c9-421c-b0d4-0dc0064464ef)
+
+
+**Module-->ESP32**
+
+- Vcc --> +5v
+- Gnd --> GND
+- DIN --> GPIO 23
+- CS --> GPIO 5
+- CLK --> GPIO 18
+
+
+## Details <br />
 Each of the numbers in the Modbus rtu message represents the bit position of the matrix but expressed in decimal form. {[source](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)}
 
 How are the bit values placed?
