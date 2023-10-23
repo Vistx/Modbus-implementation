@@ -83,7 +83,7 @@ Connect  the max 485 module to the ESP 32 like so :
 
 # Example 1
 
-**Wiring**
+## Wiring
 
 ![Example 1 Pinoutres](https://github.com/Vistx/Modbus-implementation/assets/123487221/5b3c8281-07c9-421c-b0d4-0dc0064464ef)
 
@@ -98,22 +98,47 @@ Connect  the max 485 module to the ESP 32 like so :
 
 
 ## Details <br />
-Each of the numbers in the Modbus rtu message represents the bit position of the matrix but expressed in decimal form. {[source](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)}
+Each of the numbers in the Modbus rtu message represents the bit position of the matrix but expressed in decimal form. 
 
-How are the bit values placed?
+![Screenshot 2023-10-23 110335](https://github.com/Vistx/Modbus-implementation/assets/123487221/1012993d-7afb-4896-a404-1434d5cf36fc)
+{[img source](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)}
+
+
+
+**How are the bit values placed?** <br />
 Take a look at Column 0 and Rows from 0 to 7. The first 2 LED-s are OFF thus 00 , next 4 LED-s are ON so 1111, and lastly 2 LEDs are OFF thus 00
-
-img here
-
 So the entire message is **00111100** in binary, or **60** in decimal form, which in terms represents our first RTU message, audata16[0]=60 next  Column 0 is **01000010** in binary, or **66** in decimal form and so on .
 
 
+## Gui <br />
+
+![Final example1 ](https://github.com/Vistx/Modbus-implementation/assets/123487221/a774abf7-b6ed-4fc3-b4d2-e0216c61cf7c)
+
+
+
+
+
+
 # Example 2
+
+## Wiring
+
+![example 2 Pin Conres](https://github.com/Vistx/Modbus-implementation/assets/123487221/9142f0b6-ecaa-46fc-87a4-277e93efd6b0)
+
+- Vcc --> +5v
+- Gnd --> GND
+- Trig --> GPIO 5
+- Echo --> GPIO 18
+
+  ## Details <br />
  [Timers](https://www.youtube.com/watch?v=98c200lL-OY) from Winforms are used to request a register from a slave device (ESP32 in our case), we can see the **update interval** in which these registers are requested from the slave device, and the response is used to update the user interface.    
 
+As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
 
- 
- As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
+![details exmp1res](https://github.com/Vistx/Modbus-implementation/assets/123487221/336a4fd6-2757-47a6-8044-ad2281fa717a)
 
- img here
+## GUI
+![Example 2 final](https://github.com/Vistx/Modbus-implementation/assets/123487221/384db91e-85a9-4fc3-9227-9ff6638f2788)
+
+
 
