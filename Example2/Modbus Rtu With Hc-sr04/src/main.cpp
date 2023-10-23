@@ -7,7 +7,7 @@
 int delay_time_interval=60;
 unsigned long previousMillis = 0;
 Modbus slave(1,Serial,TXEN); //Slave ID-ja 1
-HCSR04 hc(5,18); 
+HCSR04 hc(5,18); // (trig,echo)
 
 
 uint16_t au16data[16] = {0, 0,0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };

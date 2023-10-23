@@ -39,14 +39,14 @@ namespace SimpleFunctionGui
             this.shk_btn = new System.Windows.Forms.Button();
             this.l_btn = new System.Windows.Forms.Button();
             this.nmbus_panel = new System.Windows.Forms.GroupBox();
+            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.reg_box = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.value_box = new System.Windows.Forms.TextBox();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             this.clear_btn = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             this.nmbus_panel.SuspendLayout();
@@ -177,6 +177,37 @@ namespace SimpleFunctionGui
             this.nmbus_panel.TabStop = false;
             this.nmbus_panel.Text = "NModbus4 Panel  Master Read/Write";
             // 
+            // richTextBox2
+            // 
+            this.richTextBox2.ForeColor = System.Drawing.Color.Firebrick;
+            this.richTextBox2.Location = new System.Drawing.Point(35, 149);
+            this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.Size = new System.Drawing.Size(286, 167);
+            this.richTextBox2.TabIndex = 6;
+            this.richTextBox2.Text = "- Register range from 0 to 15\n\n- Do not leave empty values in the register \n   or" +
+    " value box when performing operations";
+            this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(246, 99);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(75, 23);
+            this.button2.TabIndex = 5;
+            this.button2.Text = "Write";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(246, 55);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "Read";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -222,35 +253,6 @@ namespace SimpleFunctionGui
             this.richTextBox1.TabIndex = 29;
             this.richTextBox1.Text = "";
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(246, 55);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "Read";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(246, 99);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(75, 23);
-            this.button2.TabIndex = 5;
-            this.button2.Text = "Write";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // richTextBox2
-            // 
-            this.richTextBox2.Location = new System.Drawing.Point(35, 174);
-            this.richTextBox2.Name = "richTextBox2";
-            this.richTextBox2.Size = new System.Drawing.Size(286, 167);
-            this.richTextBox2.TabIndex = 6;
-            this.richTextBox2.Text = "";
-            this.richTextBox2.TextChanged += new System.EventHandler(this.richTextBox2_TextChanged);
             // 
             // clear_btn
             // 

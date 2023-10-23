@@ -20,7 +20,7 @@ namespace HCSR04DisplayReadings
         public Form1()
         {
             InitializeComponent();
-            _baudrate.SelectedIndex = 1;
+            _baudrate.SelectedIndex = 2;
             
         }
 
@@ -59,6 +59,7 @@ namespace HCSR04DisplayReadings
                 l_btn.Enabled = false;
                 timer1.Interval = Int16.Parse(timer_int_box.Text);
                 timer1.Start();
+                timer_int_box.Enabled = false;
             }
             catch (Exception)
             {
@@ -84,6 +85,7 @@ namespace HCSR04DisplayReadings
             nmbus_panel.Enabled = false;
             richTextBox1.Clear();
             timer1.Stop();
+            timer_int_box.Enabled = true;
         }
       
 

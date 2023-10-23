@@ -31,69 +31,69 @@ namespace WindowsFormsApp1
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.ovalPictureBox33 = new OvalPictureBox();
-            this.ovalPictureBox34 = new OvalPictureBox();
-            this.ovalPictureBox35 = new OvalPictureBox();
-            this.ovalPictureBox36 = new OvalPictureBox();
-            this.ovalPictureBox37 = new OvalPictureBox();
-            this.ovalPictureBox38 = new OvalPictureBox();
-            this.ovalPictureBox39 = new OvalPictureBox();
-            this.ovalPictureBox40 = new OvalPictureBox();
-            this.ovalPictureBox41 = new OvalPictureBox();
-            this.ovalPictureBox42 = new OvalPictureBox();
-            this.ovalPictureBox43 = new OvalPictureBox();
-            this.ovalPictureBox44 = new OvalPictureBox();
-            this.ovalPictureBox45 = new OvalPictureBox();
-            this.ovalPictureBox46 = new OvalPictureBox();
-            this.ovalPictureBox47 = new OvalPictureBox();
-            this.ovalPictureBox48 = new OvalPictureBox();
-            this.ovalPictureBox49 = new OvalPictureBox();
-            this.ovalPictureBox50 = new OvalPictureBox();
-            this.ovalPictureBox51 = new OvalPictureBox();
-            this.ovalPictureBox52 = new OvalPictureBox();
-            this.ovalPictureBox53 = new OvalPictureBox();
-            this.ovalPictureBox54 = new OvalPictureBox();
-            this.ovalPictureBox55 = new OvalPictureBox();
-            this.ovalPictureBox56 = new OvalPictureBox();
-            this.ovalPictureBox57 = new OvalPictureBox();
-            this.ovalPictureBox58 = new OvalPictureBox();
-            this.ovalPictureBox59 = new OvalPictureBox();
-            this.ovalPictureBox60 = new OvalPictureBox();
-            this.ovalPictureBox61 = new OvalPictureBox();
-            this.ovalPictureBox62 = new OvalPictureBox();
-            this.ovalPictureBox63 = new OvalPictureBox();
-            this.ovalPictureBox64 = new OvalPictureBox();
-            this.ovalPictureBox25 = new OvalPictureBox();
-            this.ovalPictureBox26 = new OvalPictureBox();
-            this.ovalPictureBox27 = new OvalPictureBox();
-            this.ovalPictureBox28 = new OvalPictureBox();
-            this.ovalPictureBox29 = new OvalPictureBox();
-            this.ovalPictureBox30 = new OvalPictureBox();
-            this.ovalPictureBox31 = new OvalPictureBox();
-            this.ovalPictureBox32 = new OvalPictureBox();
-            this.ovalPictureBox17 = new OvalPictureBox();
-            this.ovalPictureBox18 = new OvalPictureBox();
-            this.ovalPictureBox19 = new OvalPictureBox();
-            this.ovalPictureBox20 = new OvalPictureBox();
-            this.ovalPictureBox21 = new OvalPictureBox();
-            this.ovalPictureBox22 = new OvalPictureBox();
-            this.ovalPictureBox23 = new OvalPictureBox();
-            this.ovalPictureBox24 = new OvalPictureBox();
-            this.ovalPictureBox9 = new OvalPictureBox();
-            this.ovalPictureBox10 = new OvalPictureBox();
-            this.ovalPictureBox11 = new OvalPictureBox();
-            this.ovalPictureBox12 = new OvalPictureBox();
-            this.ovalPictureBox13 = new OvalPictureBox();
-            this.ovalPictureBox14 = new OvalPictureBox();
-            this.ovalPictureBox15 = new OvalPictureBox();
-            this.ovalPictureBox16 = new OvalPictureBox();
             this.ovalPictureBox5 = new OvalPictureBox();
+            this.ovalPictureBox34 = new OvalPictureBox();
             this.ovalPictureBox6 = new OvalPictureBox();
             this.ovalPictureBox7 = new OvalPictureBox();
+            this.ovalPictureBox35 = new OvalPictureBox();
             this.ovalPictureBox8 = new OvalPictureBox();
             this.ovalPictureBox3 = new OvalPictureBox();
+            this.ovalPictureBox36 = new OvalPictureBox();
             this.ovalPictureBox4 = new OvalPictureBox();
             this.ovalPictureBox2 = new OvalPictureBox();
+            this.ovalPictureBox37 = new OvalPictureBox();
             this.ovalPictureBox1 = new OvalPictureBox();
+            this.ovalPictureBox9 = new OvalPictureBox();
+            this.ovalPictureBox38 = new OvalPictureBox();
+            this.ovalPictureBox16 = new OvalPictureBox();
+            this.ovalPictureBox15 = new OvalPictureBox();
+            this.ovalPictureBox39 = new OvalPictureBox();
+            this.ovalPictureBox10 = new OvalPictureBox();
+            this.ovalPictureBox14 = new OvalPictureBox();
+            this.ovalPictureBox40 = new OvalPictureBox();
+            this.ovalPictureBox13 = new OvalPictureBox();
+            this.ovalPictureBox11 = new OvalPictureBox();
+            this.ovalPictureBox41 = new OvalPictureBox();
+            this.ovalPictureBox12 = new OvalPictureBox();
+            this.ovalPictureBox24 = new OvalPictureBox();
+            this.ovalPictureBox42 = new OvalPictureBox();
+            this.ovalPictureBox23 = new OvalPictureBox();
+            this.ovalPictureBox22 = new OvalPictureBox();
+            this.ovalPictureBox43 = new OvalPictureBox();
+            this.ovalPictureBox21 = new OvalPictureBox();
+            this.ovalPictureBox20 = new OvalPictureBox();
+            this.ovalPictureBox44 = new OvalPictureBox();
+            this.ovalPictureBox19 = new OvalPictureBox();
+            this.ovalPictureBox18 = new OvalPictureBox();
+            this.ovalPictureBox45 = new OvalPictureBox();
+            this.ovalPictureBox17 = new OvalPictureBox();
+            this.ovalPictureBox32 = new OvalPictureBox();
+            this.ovalPictureBox46 = new OvalPictureBox();
+            this.ovalPictureBox31 = new OvalPictureBox();
+            this.ovalPictureBox30 = new OvalPictureBox();
+            this.ovalPictureBox47 = new OvalPictureBox();
+            this.ovalPictureBox29 = new OvalPictureBox();
+            this.ovalPictureBox28 = new OvalPictureBox();
+            this.ovalPictureBox48 = new OvalPictureBox();
+            this.ovalPictureBox27 = new OvalPictureBox();
+            this.ovalPictureBox26 = new OvalPictureBox();
+            this.ovalPictureBox49 = new OvalPictureBox();
+            this.ovalPictureBox25 = new OvalPictureBox();
+            this.ovalPictureBox64 = new OvalPictureBox();
+            this.ovalPictureBox50 = new OvalPictureBox();
+            this.ovalPictureBox63 = new OvalPictureBox();
+            this.ovalPictureBox62 = new OvalPictureBox();
+            this.ovalPictureBox51 = new OvalPictureBox();
+            this.ovalPictureBox61 = new OvalPictureBox();
+            this.ovalPictureBox60 = new OvalPictureBox();
+            this.ovalPictureBox52 = new OvalPictureBox();
+            this.ovalPictureBox59 = new OvalPictureBox();
+            this.ovalPictureBox58 = new OvalPictureBox();
+            this.ovalPictureBox53 = new OvalPictureBox();
+            this.ovalPictureBox57 = new OvalPictureBox();
+            this.ovalPictureBox56 = new OvalPictureBox();
+            this.ovalPictureBox54 = new OvalPictureBox();
+            this.ovalPictureBox55 = new OvalPictureBox();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
@@ -135,69 +135,69 @@ namespace WindowsFormsApp1
             this.mesazhi_lbl = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox33)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox34)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox35)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox36)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox37)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox38)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox39)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox40)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox41)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox42)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox43)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox44)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox45)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox46)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox47)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox48)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox49)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox50)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox51)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox52)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox53)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox54)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox55)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox56)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox57)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox58)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox59)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox60)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox61)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox62)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox63)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox64)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox25)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox26)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox27)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox28)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox29)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox30)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox31)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox32)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox17)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox18)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox20)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox21)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox22)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox23)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox9)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox10)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox11)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox12)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox13)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox15)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox16)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox34)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox35)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox36)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox37)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox38)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox16)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox15)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox39)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox14)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox40)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox13)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox41)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox24)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox42)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox23)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox22)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox43)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox21)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox20)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox44)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox19)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox18)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox45)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox17)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox32)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox46)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox31)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox30)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox47)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox29)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox28)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox48)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox27)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox26)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox49)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox25)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox64)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox50)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox63)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox62)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox51)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox61)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox60)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox52)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox59)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox58)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox53)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox57)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox56)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox54)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox55)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -268,11 +268,9 @@ namespace WindowsFormsApp1
             this.groupBox1.Controls.Add(this.ovalPictureBox56);
             this.groupBox1.Controls.Add(this.ovalPictureBox54);
             this.groupBox1.Controls.Add(this.ovalPictureBox55);
-            this.groupBox1.Location = new System.Drawing.Point(20, 20);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.groupBox1.Location = new System.Drawing.Point(15, 16);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.groupBox1.Size = new System.Drawing.Size(335, 310);
+            this.groupBox1.Size = new System.Drawing.Size(251, 252);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "8 X 8 Led";
@@ -280,637 +278,43 @@ namespace WindowsFormsApp1
             // ovalPictureBox33
             // 
             this.ovalPictureBox33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox33.Location = new System.Drawing.Point(288, 271);
-            this.ovalPictureBox33.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox33.Location = new System.Drawing.Point(216, 220);
+            this.ovalPictureBox33.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox33.Name = "ovalPictureBox33";
-            this.ovalPictureBox33.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox33.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox33.TabIndex = 63;
             this.ovalPictureBox33.TabStop = false;
             this.ovalPictureBox33.Click += new System.EventHandler(this.ovalPictureBox33_Click);
             // 
-            // ovalPictureBox34
-            // 
-            this.ovalPictureBox34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox34.Location = new System.Drawing.Point(288, 236);
-            this.ovalPictureBox34.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox34.Name = "ovalPictureBox34";
-            this.ovalPictureBox34.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox34.TabIndex = 62;
-            this.ovalPictureBox34.TabStop = false;
-            this.ovalPictureBox34.Click += new System.EventHandler(this.ovalPictureBox34_Click);
-            // 
-            // ovalPictureBox35
-            // 
-            this.ovalPictureBox35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox35.Location = new System.Drawing.Point(288, 199);
-            this.ovalPictureBox35.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox35.Name = "ovalPictureBox35";
-            this.ovalPictureBox35.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox35.TabIndex = 61;
-            this.ovalPictureBox35.TabStop = false;
-            this.ovalPictureBox35.Click += new System.EventHandler(this.ovalPictureBox35_Click);
-            // 
-            // ovalPictureBox36
-            // 
-            this.ovalPictureBox36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox36.Location = new System.Drawing.Point(288, 161);
-            this.ovalPictureBox36.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox36.Name = "ovalPictureBox36";
-            this.ovalPictureBox36.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox36.TabIndex = 60;
-            this.ovalPictureBox36.TabStop = false;
-            this.ovalPictureBox36.Click += new System.EventHandler(this.ovalPictureBox36_Click);
-            // 
-            // ovalPictureBox37
-            // 
-            this.ovalPictureBox37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox37.Location = new System.Drawing.Point(288, 126);
-            this.ovalPictureBox37.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox37.Name = "ovalPictureBox37";
-            this.ovalPictureBox37.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox37.TabIndex = 59;
-            this.ovalPictureBox37.TabStop = false;
-            this.ovalPictureBox37.Click += new System.EventHandler(this.ovalPictureBox37_Click);
-            // 
-            // ovalPictureBox38
-            // 
-            this.ovalPictureBox38.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox38.Location = new System.Drawing.Point(288, 90);
-            this.ovalPictureBox38.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox38.Name = "ovalPictureBox38";
-            this.ovalPictureBox38.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox38.TabIndex = 58;
-            this.ovalPictureBox38.TabStop = false;
-            this.ovalPictureBox38.Click += new System.EventHandler(this.ovalPictureBox38_Click);
-            // 
-            // ovalPictureBox39
-            // 
-            this.ovalPictureBox39.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox39.Location = new System.Drawing.Point(288, 55);
-            this.ovalPictureBox39.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox39.Name = "ovalPictureBox39";
-            this.ovalPictureBox39.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox39.TabIndex = 57;
-            this.ovalPictureBox39.TabStop = false;
-            this.ovalPictureBox39.Click += new System.EventHandler(this.ovalPictureBox39_Click);
-            // 
-            // ovalPictureBox40
-            // 
-            this.ovalPictureBox40.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox40.Location = new System.Drawing.Point(288, 20);
-            this.ovalPictureBox40.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox40.Name = "ovalPictureBox40";
-            this.ovalPictureBox40.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox40.TabIndex = 56;
-            this.ovalPictureBox40.TabStop = false;
-            this.ovalPictureBox40.Click += new System.EventHandler(this.ovalPictureBox40_Click);
-            // 
-            // ovalPictureBox41
-            // 
-            this.ovalPictureBox41.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox41.Location = new System.Drawing.Point(249, 271);
-            this.ovalPictureBox41.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox41.Name = "ovalPictureBox41";
-            this.ovalPictureBox41.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox41.TabIndex = 55;
-            this.ovalPictureBox41.TabStop = false;
-            this.ovalPictureBox41.Click += new System.EventHandler(this.ovalPictureBox41_Click);
-            // 
-            // ovalPictureBox42
-            // 
-            this.ovalPictureBox42.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox42.Location = new System.Drawing.Point(249, 236);
-            this.ovalPictureBox42.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox42.Name = "ovalPictureBox42";
-            this.ovalPictureBox42.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox42.TabIndex = 54;
-            this.ovalPictureBox42.TabStop = false;
-            this.ovalPictureBox42.Click += new System.EventHandler(this.ovalPictureBox42_Click);
-            // 
-            // ovalPictureBox43
-            // 
-            this.ovalPictureBox43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox43.Location = new System.Drawing.Point(249, 199);
-            this.ovalPictureBox43.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox43.Name = "ovalPictureBox43";
-            this.ovalPictureBox43.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox43.TabIndex = 53;
-            this.ovalPictureBox43.TabStop = false;
-            this.ovalPictureBox43.Click += new System.EventHandler(this.ovalPictureBox43_Click);
-            // 
-            // ovalPictureBox44
-            // 
-            this.ovalPictureBox44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox44.Location = new System.Drawing.Point(249, 161);
-            this.ovalPictureBox44.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox44.Name = "ovalPictureBox44";
-            this.ovalPictureBox44.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox44.TabIndex = 52;
-            this.ovalPictureBox44.TabStop = false;
-            this.ovalPictureBox44.Click += new System.EventHandler(this.ovalPictureBox44_Click);
-            // 
-            // ovalPictureBox45
-            // 
-            this.ovalPictureBox45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox45.Location = new System.Drawing.Point(249, 126);
-            this.ovalPictureBox45.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox45.Name = "ovalPictureBox45";
-            this.ovalPictureBox45.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox45.TabIndex = 51;
-            this.ovalPictureBox45.TabStop = false;
-            this.ovalPictureBox45.Click += new System.EventHandler(this.ovalPictureBox45_Click);
-            // 
-            // ovalPictureBox46
-            // 
-            this.ovalPictureBox46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox46.Location = new System.Drawing.Point(249, 90);
-            this.ovalPictureBox46.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox46.Name = "ovalPictureBox46";
-            this.ovalPictureBox46.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox46.TabIndex = 50;
-            this.ovalPictureBox46.TabStop = false;
-            this.ovalPictureBox46.Click += new System.EventHandler(this.ovalPictureBox46_Click);
-            // 
-            // ovalPictureBox47
-            // 
-            this.ovalPictureBox47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox47.Location = new System.Drawing.Point(249, 55);
-            this.ovalPictureBox47.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox47.Name = "ovalPictureBox47";
-            this.ovalPictureBox47.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox47.TabIndex = 49;
-            this.ovalPictureBox47.TabStop = false;
-            this.ovalPictureBox47.Click += new System.EventHandler(this.ovalPictureBox47_Click);
-            // 
-            // ovalPictureBox48
-            // 
-            this.ovalPictureBox48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox48.Location = new System.Drawing.Point(249, 20);
-            this.ovalPictureBox48.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox48.Name = "ovalPictureBox48";
-            this.ovalPictureBox48.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox48.TabIndex = 48;
-            this.ovalPictureBox48.TabStop = false;
-            this.ovalPictureBox48.Click += new System.EventHandler(this.ovalPictureBox48_Click);
-            // 
-            // ovalPictureBox49
-            // 
-            this.ovalPictureBox49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox49.Location = new System.Drawing.Point(210, 271);
-            this.ovalPictureBox49.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox49.Name = "ovalPictureBox49";
-            this.ovalPictureBox49.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox49.TabIndex = 47;
-            this.ovalPictureBox49.TabStop = false;
-            this.ovalPictureBox49.Click += new System.EventHandler(this.ovalPictureBox49_Click);
-            // 
-            // ovalPictureBox50
-            // 
-            this.ovalPictureBox50.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox50.Location = new System.Drawing.Point(210, 236);
-            this.ovalPictureBox50.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox50.Name = "ovalPictureBox50";
-            this.ovalPictureBox50.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox50.TabIndex = 46;
-            this.ovalPictureBox50.TabStop = false;
-            this.ovalPictureBox50.Click += new System.EventHandler(this.ovalPictureBox50_Click);
-            // 
-            // ovalPictureBox51
-            // 
-            this.ovalPictureBox51.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox51.Location = new System.Drawing.Point(210, 199);
-            this.ovalPictureBox51.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox51.Name = "ovalPictureBox51";
-            this.ovalPictureBox51.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox51.TabIndex = 45;
-            this.ovalPictureBox51.TabStop = false;
-            this.ovalPictureBox51.Click += new System.EventHandler(this.ovalPictureBox51_Click);
-            // 
-            // ovalPictureBox52
-            // 
-            this.ovalPictureBox52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox52.Location = new System.Drawing.Point(210, 161);
-            this.ovalPictureBox52.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox52.Name = "ovalPictureBox52";
-            this.ovalPictureBox52.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox52.TabIndex = 44;
-            this.ovalPictureBox52.TabStop = false;
-            this.ovalPictureBox52.Click += new System.EventHandler(this.ovalPictureBox52_Click);
-            // 
-            // ovalPictureBox53
-            // 
-            this.ovalPictureBox53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox53.Location = new System.Drawing.Point(210, 126);
-            this.ovalPictureBox53.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox53.Name = "ovalPictureBox53";
-            this.ovalPictureBox53.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox53.TabIndex = 43;
-            this.ovalPictureBox53.TabStop = false;
-            this.ovalPictureBox53.Click += new System.EventHandler(this.ovalPictureBox53_Click);
-            // 
-            // ovalPictureBox54
-            // 
-            this.ovalPictureBox54.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox54.Location = new System.Drawing.Point(210, 90);
-            this.ovalPictureBox54.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox54.Name = "ovalPictureBox54";
-            this.ovalPictureBox54.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox54.TabIndex = 42;
-            this.ovalPictureBox54.TabStop = false;
-            this.ovalPictureBox54.Click += new System.EventHandler(this.ovalPictureBox54_Click);
-            // 
-            // ovalPictureBox55
-            // 
-            this.ovalPictureBox55.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox55.Location = new System.Drawing.Point(210, 55);
-            this.ovalPictureBox55.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox55.Name = "ovalPictureBox55";
-            this.ovalPictureBox55.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox55.TabIndex = 41;
-            this.ovalPictureBox55.TabStop = false;
-            this.ovalPictureBox55.Click += new System.EventHandler(this.ovalPictureBox55_Click);
-            // 
-            // ovalPictureBox56
-            // 
-            this.ovalPictureBox56.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox56.Location = new System.Drawing.Point(210, 20);
-            this.ovalPictureBox56.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox56.Name = "ovalPictureBox56";
-            this.ovalPictureBox56.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox56.TabIndex = 40;
-            this.ovalPictureBox56.TabStop = false;
-            this.ovalPictureBox56.Click += new System.EventHandler(this.ovalPictureBox56_Click);
-            // 
-            // ovalPictureBox57
-            // 
-            this.ovalPictureBox57.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox57.Location = new System.Drawing.Point(171, 271);
-            this.ovalPictureBox57.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox57.Name = "ovalPictureBox57";
-            this.ovalPictureBox57.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox57.TabIndex = 39;
-            this.ovalPictureBox57.TabStop = false;
-            this.ovalPictureBox57.Click += new System.EventHandler(this.ovalPictureBox57_Click);
-            // 
-            // ovalPictureBox58
-            // 
-            this.ovalPictureBox58.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox58.Location = new System.Drawing.Point(171, 236);
-            this.ovalPictureBox58.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox58.Name = "ovalPictureBox58";
-            this.ovalPictureBox58.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox58.TabIndex = 38;
-            this.ovalPictureBox58.TabStop = false;
-            this.ovalPictureBox58.Click += new System.EventHandler(this.ovalPictureBox58_Click);
-            // 
-            // ovalPictureBox59
-            // 
-            this.ovalPictureBox59.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox59.Location = new System.Drawing.Point(171, 199);
-            this.ovalPictureBox59.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox59.Name = "ovalPictureBox59";
-            this.ovalPictureBox59.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox59.TabIndex = 37;
-            this.ovalPictureBox59.TabStop = false;
-            this.ovalPictureBox59.Click += new System.EventHandler(this.ovalPictureBox59_Click);
-            // 
-            // ovalPictureBox60
-            // 
-            this.ovalPictureBox60.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox60.Location = new System.Drawing.Point(171, 161);
-            this.ovalPictureBox60.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox60.Name = "ovalPictureBox60";
-            this.ovalPictureBox60.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox60.TabIndex = 36;
-            this.ovalPictureBox60.TabStop = false;
-            this.ovalPictureBox60.Click += new System.EventHandler(this.ovalPictureBox60_Click);
-            // 
-            // ovalPictureBox61
-            // 
-            this.ovalPictureBox61.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox61.Location = new System.Drawing.Point(171, 126);
-            this.ovalPictureBox61.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox61.Name = "ovalPictureBox61";
-            this.ovalPictureBox61.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox61.TabIndex = 35;
-            this.ovalPictureBox61.TabStop = false;
-            this.ovalPictureBox61.Click += new System.EventHandler(this.ovalPictureBox61_Click);
-            // 
-            // ovalPictureBox62
-            // 
-            this.ovalPictureBox62.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox62.Location = new System.Drawing.Point(171, 90);
-            this.ovalPictureBox62.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox62.Name = "ovalPictureBox62";
-            this.ovalPictureBox62.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox62.TabIndex = 34;
-            this.ovalPictureBox62.TabStop = false;
-            this.ovalPictureBox62.Click += new System.EventHandler(this.ovalPictureBox62_Click);
-            // 
-            // ovalPictureBox63
-            // 
-            this.ovalPictureBox63.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox63.Location = new System.Drawing.Point(171, 55);
-            this.ovalPictureBox63.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox63.Name = "ovalPictureBox63";
-            this.ovalPictureBox63.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox63.TabIndex = 33;
-            this.ovalPictureBox63.TabStop = false;
-            this.ovalPictureBox63.Click += new System.EventHandler(this.ovalPictureBox63_Click);
-            // 
-            // ovalPictureBox64
-            // 
-            this.ovalPictureBox64.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox64.Location = new System.Drawing.Point(171, 20);
-            this.ovalPictureBox64.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox64.Name = "ovalPictureBox64";
-            this.ovalPictureBox64.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox64.TabIndex = 32;
-            this.ovalPictureBox64.TabStop = false;
-            this.ovalPictureBox64.Click += new System.EventHandler(this.ovalPictureBox64_Click);
-            // 
-            // ovalPictureBox25
-            // 
-            this.ovalPictureBox25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox25.Location = new System.Drawing.Point(132, 271);
-            this.ovalPictureBox25.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox25.Name = "ovalPictureBox25";
-            this.ovalPictureBox25.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox25.TabIndex = 31;
-            this.ovalPictureBox25.TabStop = false;
-            this.ovalPictureBox25.Click += new System.EventHandler(this.ovalPictureBox25_Click);
-            // 
-            // ovalPictureBox26
-            // 
-            this.ovalPictureBox26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox26.Location = new System.Drawing.Point(132, 236);
-            this.ovalPictureBox26.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox26.Name = "ovalPictureBox26";
-            this.ovalPictureBox26.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox26.TabIndex = 30;
-            this.ovalPictureBox26.TabStop = false;
-            this.ovalPictureBox26.Click += new System.EventHandler(this.ovalPictureBox26_Click);
-            // 
-            // ovalPictureBox27
-            // 
-            this.ovalPictureBox27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox27.Location = new System.Drawing.Point(132, 199);
-            this.ovalPictureBox27.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox27.Name = "ovalPictureBox27";
-            this.ovalPictureBox27.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox27.TabIndex = 29;
-            this.ovalPictureBox27.TabStop = false;
-            this.ovalPictureBox27.Click += new System.EventHandler(this.ovalPictureBox27_Click);
-            // 
-            // ovalPictureBox28
-            // 
-            this.ovalPictureBox28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox28.Location = new System.Drawing.Point(132, 161);
-            this.ovalPictureBox28.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox28.Name = "ovalPictureBox28";
-            this.ovalPictureBox28.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox28.TabIndex = 28;
-            this.ovalPictureBox28.TabStop = false;
-            this.ovalPictureBox28.Click += new System.EventHandler(this.ovalPictureBox28_Click);
-            // 
-            // ovalPictureBox29
-            // 
-            this.ovalPictureBox29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox29.Location = new System.Drawing.Point(132, 126);
-            this.ovalPictureBox29.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox29.Name = "ovalPictureBox29";
-            this.ovalPictureBox29.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox29.TabIndex = 27;
-            this.ovalPictureBox29.TabStop = false;
-            this.ovalPictureBox29.Click += new System.EventHandler(this.ovalPictureBox29_Click);
-            // 
-            // ovalPictureBox30
-            // 
-            this.ovalPictureBox30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox30.Location = new System.Drawing.Point(132, 90);
-            this.ovalPictureBox30.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox30.Name = "ovalPictureBox30";
-            this.ovalPictureBox30.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox30.TabIndex = 26;
-            this.ovalPictureBox30.TabStop = false;
-            this.ovalPictureBox30.Click += new System.EventHandler(this.ovalPictureBox30_Click);
-            // 
-            // ovalPictureBox31
-            // 
-            this.ovalPictureBox31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox31.Location = new System.Drawing.Point(132, 55);
-            this.ovalPictureBox31.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox31.Name = "ovalPictureBox31";
-            this.ovalPictureBox31.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox31.TabIndex = 25;
-            this.ovalPictureBox31.TabStop = false;
-            this.ovalPictureBox31.Click += new System.EventHandler(this.ovalPictureBox31_Click);
-            // 
-            // ovalPictureBox32
-            // 
-            this.ovalPictureBox32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox32.Location = new System.Drawing.Point(132, 20);
-            this.ovalPictureBox32.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox32.Name = "ovalPictureBox32";
-            this.ovalPictureBox32.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox32.TabIndex = 24;
-            this.ovalPictureBox32.TabStop = false;
-            this.ovalPictureBox32.Click += new System.EventHandler(this.ovalPictureBox32_Click);
-            // 
-            // ovalPictureBox17
-            // 
-            this.ovalPictureBox17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox17.Location = new System.Drawing.Point(91, 271);
-            this.ovalPictureBox17.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox17.Name = "ovalPictureBox17";
-            this.ovalPictureBox17.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox17.TabIndex = 23;
-            this.ovalPictureBox17.TabStop = false;
-            this.ovalPictureBox17.Click += new System.EventHandler(this.ovalPictureBox17_Click);
-            // 
-            // ovalPictureBox18
-            // 
-            this.ovalPictureBox18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox18.Location = new System.Drawing.Point(91, 236);
-            this.ovalPictureBox18.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox18.Name = "ovalPictureBox18";
-            this.ovalPictureBox18.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox18.TabIndex = 22;
-            this.ovalPictureBox18.TabStop = false;
-            this.ovalPictureBox18.Click += new System.EventHandler(this.ovalPictureBox18_Click);
-            // 
-            // ovalPictureBox19
-            // 
-            this.ovalPictureBox19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox19.Location = new System.Drawing.Point(91, 199);
-            this.ovalPictureBox19.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox19.Name = "ovalPictureBox19";
-            this.ovalPictureBox19.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox19.TabIndex = 21;
-            this.ovalPictureBox19.TabStop = false;
-            this.ovalPictureBox19.Click += new System.EventHandler(this.ovalPictureBox19_Click);
-            // 
-            // ovalPictureBox20
-            // 
-            this.ovalPictureBox20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox20.Location = new System.Drawing.Point(91, 161);
-            this.ovalPictureBox20.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox20.Name = "ovalPictureBox20";
-            this.ovalPictureBox20.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox20.TabIndex = 20;
-            this.ovalPictureBox20.TabStop = false;
-            this.ovalPictureBox20.Click += new System.EventHandler(this.ovalPictureBox20_Click);
-            // 
-            // ovalPictureBox21
-            // 
-            this.ovalPictureBox21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox21.Location = new System.Drawing.Point(91, 126);
-            this.ovalPictureBox21.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox21.Name = "ovalPictureBox21";
-            this.ovalPictureBox21.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox21.TabIndex = 19;
-            this.ovalPictureBox21.TabStop = false;
-            this.ovalPictureBox21.Click += new System.EventHandler(this.ovalPictureBox21_Click);
-            // 
-            // ovalPictureBox22
-            // 
-            this.ovalPictureBox22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox22.Location = new System.Drawing.Point(93, 90);
-            this.ovalPictureBox22.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox22.Name = "ovalPictureBox22";
-            this.ovalPictureBox22.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox22.TabIndex = 18;
-            this.ovalPictureBox22.TabStop = false;
-            this.ovalPictureBox22.Click += new System.EventHandler(this.ovalPictureBox22_Click);
-            // 
-            // ovalPictureBox23
-            // 
-            this.ovalPictureBox23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox23.Location = new System.Drawing.Point(93, 55);
-            this.ovalPictureBox23.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox23.Name = "ovalPictureBox23";
-            this.ovalPictureBox23.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox23.TabIndex = 17;
-            this.ovalPictureBox23.TabStop = false;
-            this.ovalPictureBox23.Click += new System.EventHandler(this.ovalPictureBox23_Click);
-            // 
-            // ovalPictureBox24
-            // 
-            this.ovalPictureBox24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox24.Location = new System.Drawing.Point(93, 20);
-            this.ovalPictureBox24.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox24.Name = "ovalPictureBox24";
-            this.ovalPictureBox24.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox24.TabIndex = 16;
-            this.ovalPictureBox24.TabStop = false;
-            this.ovalPictureBox24.Click += new System.EventHandler(this.ovalPictureBox24_Click);
-            // 
-            // ovalPictureBox9
-            // 
-            this.ovalPictureBox9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox9.Location = new System.Drawing.Point(54, 271);
-            this.ovalPictureBox9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox9.Name = "ovalPictureBox9";
-            this.ovalPictureBox9.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox9.TabIndex = 15;
-            this.ovalPictureBox9.TabStop = false;
-            this.ovalPictureBox9.Click += new System.EventHandler(this.ovalPictureBox9_Click);
-            // 
-            // ovalPictureBox10
-            // 
-            this.ovalPictureBox10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox10.Location = new System.Drawing.Point(54, 236);
-            this.ovalPictureBox10.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox10.Name = "ovalPictureBox10";
-            this.ovalPictureBox10.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox10.TabIndex = 14;
-            this.ovalPictureBox10.TabStop = false;
-            this.ovalPictureBox10.Click += new System.EventHandler(this.ovalPictureBox10_Click);
-            // 
-            // ovalPictureBox11
-            // 
-            this.ovalPictureBox11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox11.Location = new System.Drawing.Point(54, 199);
-            this.ovalPictureBox11.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox11.Name = "ovalPictureBox11";
-            this.ovalPictureBox11.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox11.TabIndex = 13;
-            this.ovalPictureBox11.TabStop = false;
-            this.ovalPictureBox11.Click += new System.EventHandler(this.ovalPictureBox11_Click);
-            // 
-            // ovalPictureBox12
-            // 
-            this.ovalPictureBox12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox12.Location = new System.Drawing.Point(54, 161);
-            this.ovalPictureBox12.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox12.Name = "ovalPictureBox12";
-            this.ovalPictureBox12.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox12.TabIndex = 12;
-            this.ovalPictureBox12.TabStop = false;
-            this.ovalPictureBox12.Click += new System.EventHandler(this.ovalPictureBox12_Click);
-            // 
-            // ovalPictureBox13
-            // 
-            this.ovalPictureBox13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox13.Location = new System.Drawing.Point(54, 126);
-            this.ovalPictureBox13.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox13.Name = "ovalPictureBox13";
-            this.ovalPictureBox13.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox13.TabIndex = 11;
-            this.ovalPictureBox13.TabStop = false;
-            this.ovalPictureBox13.Click += new System.EventHandler(this.ovalPictureBox13_Click);
-            // 
-            // ovalPictureBox14
-            // 
-            this.ovalPictureBox14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox14.Location = new System.Drawing.Point(54, 90);
-            this.ovalPictureBox14.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox14.Name = "ovalPictureBox14";
-            this.ovalPictureBox14.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox14.TabIndex = 10;
-            this.ovalPictureBox14.TabStop = false;
-            this.ovalPictureBox14.Click += new System.EventHandler(this.ovalPictureBox14_Click);
-            // 
-            // ovalPictureBox15
-            // 
-            this.ovalPictureBox15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox15.Location = new System.Drawing.Point(54, 55);
-            this.ovalPictureBox15.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox15.Name = "ovalPictureBox15";
-            this.ovalPictureBox15.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox15.TabIndex = 9;
-            this.ovalPictureBox15.TabStop = false;
-            this.ovalPictureBox15.Click += new System.EventHandler(this.ovalPictureBox15_Click);
-            // 
-            // ovalPictureBox16
-            // 
-            this.ovalPictureBox16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox16.Location = new System.Drawing.Point(54, 20);
-            this.ovalPictureBox16.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.ovalPictureBox16.Name = "ovalPictureBox16";
-            this.ovalPictureBox16.Size = new System.Drawing.Size(33, 31);
-            this.ovalPictureBox16.TabIndex = 8;
-            this.ovalPictureBox16.TabStop = false;
-            this.ovalPictureBox16.Click += new System.EventHandler(this.ovalPictureBox16_Click);
-            // 
             // ovalPictureBox5
             // 
             this.ovalPictureBox5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox5.Location = new System.Drawing.Point(15, 271);
-            this.ovalPictureBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox5.Location = new System.Drawing.Point(11, 220);
+            this.ovalPictureBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox5.Name = "ovalPictureBox5";
-            this.ovalPictureBox5.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox5.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox5.TabIndex = 7;
             this.ovalPictureBox5.TabStop = false;
             this.ovalPictureBox5.Click += new System.EventHandler(this.ovalPictureBox5_Click);
             // 
+            // ovalPictureBox34
+            // 
+            this.ovalPictureBox34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox34.Location = new System.Drawing.Point(216, 192);
+            this.ovalPictureBox34.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox34.Name = "ovalPictureBox34";
+            this.ovalPictureBox34.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox34.TabIndex = 62;
+            this.ovalPictureBox34.TabStop = false;
+            this.ovalPictureBox34.Click += new System.EventHandler(this.ovalPictureBox34_Click);
+            // 
             // ovalPictureBox6
             // 
             this.ovalPictureBox6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox6.Location = new System.Drawing.Point(15, 236);
-            this.ovalPictureBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox6.Location = new System.Drawing.Point(11, 192);
+            this.ovalPictureBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox6.Name = "ovalPictureBox6";
-            this.ovalPictureBox6.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox6.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox6.TabIndex = 6;
             this.ovalPictureBox6.TabStop = false;
             this.ovalPictureBox6.Click += new System.EventHandler(this.ovalPictureBox6_Click);
@@ -918,21 +322,32 @@ namespace WindowsFormsApp1
             // ovalPictureBox7
             // 
             this.ovalPictureBox7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox7.Location = new System.Drawing.Point(15, 199);
-            this.ovalPictureBox7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox7.Location = new System.Drawing.Point(11, 162);
+            this.ovalPictureBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox7.Name = "ovalPictureBox7";
-            this.ovalPictureBox7.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox7.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox7.TabIndex = 5;
             this.ovalPictureBox7.TabStop = false;
             this.ovalPictureBox7.Click += new System.EventHandler(this.ovalPictureBox7_Click);
             // 
+            // ovalPictureBox35
+            // 
+            this.ovalPictureBox35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox35.Location = new System.Drawing.Point(216, 162);
+            this.ovalPictureBox35.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox35.Name = "ovalPictureBox35";
+            this.ovalPictureBox35.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox35.TabIndex = 61;
+            this.ovalPictureBox35.TabStop = false;
+            this.ovalPictureBox35.Click += new System.EventHandler(this.ovalPictureBox35_Click);
+            // 
             // ovalPictureBox8
             // 
             this.ovalPictureBox8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox8.Location = new System.Drawing.Point(14, 161);
-            this.ovalPictureBox8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox8.Location = new System.Drawing.Point(10, 131);
+            this.ovalPictureBox8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox8.Name = "ovalPictureBox8";
-            this.ovalPictureBox8.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox8.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox8.TabIndex = 4;
             this.ovalPictureBox8.TabStop = false;
             this.ovalPictureBox8.Click += new System.EventHandler(this.ovalPictureBox8_Click);
@@ -940,21 +355,32 @@ namespace WindowsFormsApp1
             // ovalPictureBox3
             // 
             this.ovalPictureBox3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox3.Location = new System.Drawing.Point(15, 126);
-            this.ovalPictureBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox3.Location = new System.Drawing.Point(11, 102);
+            this.ovalPictureBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox3.Name = "ovalPictureBox3";
-            this.ovalPictureBox3.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox3.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox3.TabIndex = 3;
             this.ovalPictureBox3.TabStop = false;
             this.ovalPictureBox3.Click += new System.EventHandler(this.ovalPictureBox3_Click);
             // 
+            // ovalPictureBox36
+            // 
+            this.ovalPictureBox36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox36.Location = new System.Drawing.Point(216, 131);
+            this.ovalPictureBox36.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox36.Name = "ovalPictureBox36";
+            this.ovalPictureBox36.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox36.TabIndex = 60;
+            this.ovalPictureBox36.TabStop = false;
+            this.ovalPictureBox36.Click += new System.EventHandler(this.ovalPictureBox36_Click);
+            // 
             // ovalPictureBox4
             // 
             this.ovalPictureBox4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox4.Location = new System.Drawing.Point(15, 90);
-            this.ovalPictureBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox4.Location = new System.Drawing.Point(11, 73);
+            this.ovalPictureBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox4.Name = "ovalPictureBox4";
-            this.ovalPictureBox4.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox4.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox4.TabIndex = 2;
             this.ovalPictureBox4.TabStop = false;
             this.ovalPictureBox4.Click += new System.EventHandler(this.ovalPictureBox4_Click);
@@ -962,24 +388,596 @@ namespace WindowsFormsApp1
             // ovalPictureBox2
             // 
             this.ovalPictureBox2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox2.Location = new System.Drawing.Point(14, 55);
-            this.ovalPictureBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox2.Location = new System.Drawing.Point(10, 45);
+            this.ovalPictureBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox2.Name = "ovalPictureBox2";
-            this.ovalPictureBox2.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox2.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox2.TabIndex = 1;
             this.ovalPictureBox2.TabStop = false;
             this.ovalPictureBox2.Click += new System.EventHandler(this.ovalPictureBox2_Click);
             // 
+            // ovalPictureBox37
+            // 
+            this.ovalPictureBox37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox37.Location = new System.Drawing.Point(216, 102);
+            this.ovalPictureBox37.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox37.Name = "ovalPictureBox37";
+            this.ovalPictureBox37.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox37.TabIndex = 59;
+            this.ovalPictureBox37.TabStop = false;
+            this.ovalPictureBox37.Click += new System.EventHandler(this.ovalPictureBox37_Click);
+            // 
             // ovalPictureBox1
             // 
             this.ovalPictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.ovalPictureBox1.Location = new System.Drawing.Point(15, 20);
-            this.ovalPictureBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.ovalPictureBox1.Location = new System.Drawing.Point(11, 16);
+            this.ovalPictureBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.ovalPictureBox1.Name = "ovalPictureBox1";
-            this.ovalPictureBox1.Size = new System.Drawing.Size(33, 31);
+            this.ovalPictureBox1.Size = new System.Drawing.Size(25, 25);
             this.ovalPictureBox1.TabIndex = 0;
             this.ovalPictureBox1.TabStop = false;
             this.ovalPictureBox1.Click += new System.EventHandler(this.ovalPictureBox1_Click);
+            // 
+            // ovalPictureBox9
+            // 
+            this.ovalPictureBox9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox9.Location = new System.Drawing.Point(40, 220);
+            this.ovalPictureBox9.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox9.Name = "ovalPictureBox9";
+            this.ovalPictureBox9.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox9.TabIndex = 15;
+            this.ovalPictureBox9.TabStop = false;
+            this.ovalPictureBox9.Click += new System.EventHandler(this.ovalPictureBox9_Click);
+            // 
+            // ovalPictureBox38
+            // 
+            this.ovalPictureBox38.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox38.Location = new System.Drawing.Point(216, 73);
+            this.ovalPictureBox38.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox38.Name = "ovalPictureBox38";
+            this.ovalPictureBox38.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox38.TabIndex = 58;
+            this.ovalPictureBox38.TabStop = false;
+            this.ovalPictureBox38.Click += new System.EventHandler(this.ovalPictureBox38_Click);
+            // 
+            // ovalPictureBox16
+            // 
+            this.ovalPictureBox16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox16.Location = new System.Drawing.Point(40, 16);
+            this.ovalPictureBox16.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox16.Name = "ovalPictureBox16";
+            this.ovalPictureBox16.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox16.TabIndex = 8;
+            this.ovalPictureBox16.TabStop = false;
+            this.ovalPictureBox16.Click += new System.EventHandler(this.ovalPictureBox16_Click);
+            // 
+            // ovalPictureBox15
+            // 
+            this.ovalPictureBox15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox15.Location = new System.Drawing.Point(40, 45);
+            this.ovalPictureBox15.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox15.Name = "ovalPictureBox15";
+            this.ovalPictureBox15.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox15.TabIndex = 9;
+            this.ovalPictureBox15.TabStop = false;
+            this.ovalPictureBox15.Click += new System.EventHandler(this.ovalPictureBox15_Click);
+            // 
+            // ovalPictureBox39
+            // 
+            this.ovalPictureBox39.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox39.Location = new System.Drawing.Point(216, 45);
+            this.ovalPictureBox39.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox39.Name = "ovalPictureBox39";
+            this.ovalPictureBox39.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox39.TabIndex = 57;
+            this.ovalPictureBox39.TabStop = false;
+            this.ovalPictureBox39.Click += new System.EventHandler(this.ovalPictureBox39_Click);
+            // 
+            // ovalPictureBox10
+            // 
+            this.ovalPictureBox10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox10.Location = new System.Drawing.Point(40, 192);
+            this.ovalPictureBox10.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox10.Name = "ovalPictureBox10";
+            this.ovalPictureBox10.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox10.TabIndex = 14;
+            this.ovalPictureBox10.TabStop = false;
+            this.ovalPictureBox10.Click += new System.EventHandler(this.ovalPictureBox10_Click);
+            // 
+            // ovalPictureBox14
+            // 
+            this.ovalPictureBox14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox14.Location = new System.Drawing.Point(40, 73);
+            this.ovalPictureBox14.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox14.Name = "ovalPictureBox14";
+            this.ovalPictureBox14.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox14.TabIndex = 10;
+            this.ovalPictureBox14.TabStop = false;
+            this.ovalPictureBox14.Click += new System.EventHandler(this.ovalPictureBox14_Click);
+            // 
+            // ovalPictureBox40
+            // 
+            this.ovalPictureBox40.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox40.Location = new System.Drawing.Point(216, 16);
+            this.ovalPictureBox40.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox40.Name = "ovalPictureBox40";
+            this.ovalPictureBox40.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox40.TabIndex = 56;
+            this.ovalPictureBox40.TabStop = false;
+            this.ovalPictureBox40.Click += new System.EventHandler(this.ovalPictureBox40_Click);
+            // 
+            // ovalPictureBox13
+            // 
+            this.ovalPictureBox13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox13.Location = new System.Drawing.Point(40, 102);
+            this.ovalPictureBox13.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox13.Name = "ovalPictureBox13";
+            this.ovalPictureBox13.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox13.TabIndex = 11;
+            this.ovalPictureBox13.TabStop = false;
+            this.ovalPictureBox13.Click += new System.EventHandler(this.ovalPictureBox13_Click);
+            // 
+            // ovalPictureBox11
+            // 
+            this.ovalPictureBox11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox11.Location = new System.Drawing.Point(40, 162);
+            this.ovalPictureBox11.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox11.Name = "ovalPictureBox11";
+            this.ovalPictureBox11.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox11.TabIndex = 13;
+            this.ovalPictureBox11.TabStop = false;
+            this.ovalPictureBox11.Click += new System.EventHandler(this.ovalPictureBox11_Click);
+            // 
+            // ovalPictureBox41
+            // 
+            this.ovalPictureBox41.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox41.Location = new System.Drawing.Point(187, 220);
+            this.ovalPictureBox41.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox41.Name = "ovalPictureBox41";
+            this.ovalPictureBox41.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox41.TabIndex = 55;
+            this.ovalPictureBox41.TabStop = false;
+            this.ovalPictureBox41.Click += new System.EventHandler(this.ovalPictureBox41_Click);
+            // 
+            // ovalPictureBox12
+            // 
+            this.ovalPictureBox12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox12.Location = new System.Drawing.Point(40, 131);
+            this.ovalPictureBox12.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox12.Name = "ovalPictureBox12";
+            this.ovalPictureBox12.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox12.TabIndex = 12;
+            this.ovalPictureBox12.TabStop = false;
+            this.ovalPictureBox12.Click += new System.EventHandler(this.ovalPictureBox12_Click);
+            // 
+            // ovalPictureBox24
+            // 
+            this.ovalPictureBox24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox24.Location = new System.Drawing.Point(70, 16);
+            this.ovalPictureBox24.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox24.Name = "ovalPictureBox24";
+            this.ovalPictureBox24.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox24.TabIndex = 16;
+            this.ovalPictureBox24.TabStop = false;
+            this.ovalPictureBox24.Click += new System.EventHandler(this.ovalPictureBox24_Click);
+            // 
+            // ovalPictureBox42
+            // 
+            this.ovalPictureBox42.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox42.Location = new System.Drawing.Point(187, 192);
+            this.ovalPictureBox42.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox42.Name = "ovalPictureBox42";
+            this.ovalPictureBox42.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox42.TabIndex = 54;
+            this.ovalPictureBox42.TabStop = false;
+            this.ovalPictureBox42.Click += new System.EventHandler(this.ovalPictureBox42_Click);
+            // 
+            // ovalPictureBox23
+            // 
+            this.ovalPictureBox23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox23.Location = new System.Drawing.Point(70, 45);
+            this.ovalPictureBox23.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox23.Name = "ovalPictureBox23";
+            this.ovalPictureBox23.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox23.TabIndex = 17;
+            this.ovalPictureBox23.TabStop = false;
+            this.ovalPictureBox23.Click += new System.EventHandler(this.ovalPictureBox23_Click);
+            // 
+            // ovalPictureBox22
+            // 
+            this.ovalPictureBox22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox22.Location = new System.Drawing.Point(70, 73);
+            this.ovalPictureBox22.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox22.Name = "ovalPictureBox22";
+            this.ovalPictureBox22.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox22.TabIndex = 18;
+            this.ovalPictureBox22.TabStop = false;
+            this.ovalPictureBox22.Click += new System.EventHandler(this.ovalPictureBox22_Click);
+            // 
+            // ovalPictureBox43
+            // 
+            this.ovalPictureBox43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox43.Location = new System.Drawing.Point(187, 162);
+            this.ovalPictureBox43.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox43.Name = "ovalPictureBox43";
+            this.ovalPictureBox43.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox43.TabIndex = 53;
+            this.ovalPictureBox43.TabStop = false;
+            this.ovalPictureBox43.Click += new System.EventHandler(this.ovalPictureBox43_Click);
+            // 
+            // ovalPictureBox21
+            // 
+            this.ovalPictureBox21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox21.Location = new System.Drawing.Point(68, 102);
+            this.ovalPictureBox21.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox21.Name = "ovalPictureBox21";
+            this.ovalPictureBox21.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox21.TabIndex = 19;
+            this.ovalPictureBox21.TabStop = false;
+            this.ovalPictureBox21.Click += new System.EventHandler(this.ovalPictureBox21_Click);
+            // 
+            // ovalPictureBox20
+            // 
+            this.ovalPictureBox20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox20.Location = new System.Drawing.Point(68, 131);
+            this.ovalPictureBox20.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox20.Name = "ovalPictureBox20";
+            this.ovalPictureBox20.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox20.TabIndex = 20;
+            this.ovalPictureBox20.TabStop = false;
+            this.ovalPictureBox20.Click += new System.EventHandler(this.ovalPictureBox20_Click);
+            // 
+            // ovalPictureBox44
+            // 
+            this.ovalPictureBox44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox44.Location = new System.Drawing.Point(187, 131);
+            this.ovalPictureBox44.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox44.Name = "ovalPictureBox44";
+            this.ovalPictureBox44.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox44.TabIndex = 52;
+            this.ovalPictureBox44.TabStop = false;
+            this.ovalPictureBox44.Click += new System.EventHandler(this.ovalPictureBox44_Click);
+            // 
+            // ovalPictureBox19
+            // 
+            this.ovalPictureBox19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox19.Location = new System.Drawing.Point(68, 162);
+            this.ovalPictureBox19.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox19.Name = "ovalPictureBox19";
+            this.ovalPictureBox19.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox19.TabIndex = 21;
+            this.ovalPictureBox19.TabStop = false;
+            this.ovalPictureBox19.Click += new System.EventHandler(this.ovalPictureBox19_Click);
+            // 
+            // ovalPictureBox18
+            // 
+            this.ovalPictureBox18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox18.Location = new System.Drawing.Point(68, 192);
+            this.ovalPictureBox18.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox18.Name = "ovalPictureBox18";
+            this.ovalPictureBox18.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox18.TabIndex = 22;
+            this.ovalPictureBox18.TabStop = false;
+            this.ovalPictureBox18.Click += new System.EventHandler(this.ovalPictureBox18_Click);
+            // 
+            // ovalPictureBox45
+            // 
+            this.ovalPictureBox45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox45.Location = new System.Drawing.Point(187, 102);
+            this.ovalPictureBox45.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox45.Name = "ovalPictureBox45";
+            this.ovalPictureBox45.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox45.TabIndex = 51;
+            this.ovalPictureBox45.TabStop = false;
+            this.ovalPictureBox45.Click += new System.EventHandler(this.ovalPictureBox45_Click);
+            // 
+            // ovalPictureBox17
+            // 
+            this.ovalPictureBox17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox17.Location = new System.Drawing.Point(68, 220);
+            this.ovalPictureBox17.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox17.Name = "ovalPictureBox17";
+            this.ovalPictureBox17.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox17.TabIndex = 23;
+            this.ovalPictureBox17.TabStop = false;
+            this.ovalPictureBox17.Click += new System.EventHandler(this.ovalPictureBox17_Click);
+            // 
+            // ovalPictureBox32
+            // 
+            this.ovalPictureBox32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox32.Location = new System.Drawing.Point(99, 16);
+            this.ovalPictureBox32.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox32.Name = "ovalPictureBox32";
+            this.ovalPictureBox32.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox32.TabIndex = 24;
+            this.ovalPictureBox32.TabStop = false;
+            this.ovalPictureBox32.Click += new System.EventHandler(this.ovalPictureBox32_Click);
+            // 
+            // ovalPictureBox46
+            // 
+            this.ovalPictureBox46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox46.Location = new System.Drawing.Point(187, 73);
+            this.ovalPictureBox46.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox46.Name = "ovalPictureBox46";
+            this.ovalPictureBox46.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox46.TabIndex = 50;
+            this.ovalPictureBox46.TabStop = false;
+            this.ovalPictureBox46.Click += new System.EventHandler(this.ovalPictureBox46_Click);
+            // 
+            // ovalPictureBox31
+            // 
+            this.ovalPictureBox31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox31.Location = new System.Drawing.Point(99, 45);
+            this.ovalPictureBox31.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox31.Name = "ovalPictureBox31";
+            this.ovalPictureBox31.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox31.TabIndex = 25;
+            this.ovalPictureBox31.TabStop = false;
+            this.ovalPictureBox31.Click += new System.EventHandler(this.ovalPictureBox31_Click);
+            // 
+            // ovalPictureBox30
+            // 
+            this.ovalPictureBox30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox30.Location = new System.Drawing.Point(99, 73);
+            this.ovalPictureBox30.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox30.Name = "ovalPictureBox30";
+            this.ovalPictureBox30.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox30.TabIndex = 26;
+            this.ovalPictureBox30.TabStop = false;
+            this.ovalPictureBox30.Click += new System.EventHandler(this.ovalPictureBox30_Click);
+            // 
+            // ovalPictureBox47
+            // 
+            this.ovalPictureBox47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox47.Location = new System.Drawing.Point(187, 45);
+            this.ovalPictureBox47.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox47.Name = "ovalPictureBox47";
+            this.ovalPictureBox47.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox47.TabIndex = 49;
+            this.ovalPictureBox47.TabStop = false;
+            this.ovalPictureBox47.Click += new System.EventHandler(this.ovalPictureBox47_Click);
+            // 
+            // ovalPictureBox29
+            // 
+            this.ovalPictureBox29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox29.Location = new System.Drawing.Point(99, 102);
+            this.ovalPictureBox29.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox29.Name = "ovalPictureBox29";
+            this.ovalPictureBox29.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox29.TabIndex = 27;
+            this.ovalPictureBox29.TabStop = false;
+            this.ovalPictureBox29.Click += new System.EventHandler(this.ovalPictureBox29_Click);
+            // 
+            // ovalPictureBox28
+            // 
+            this.ovalPictureBox28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox28.Location = new System.Drawing.Point(99, 131);
+            this.ovalPictureBox28.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox28.Name = "ovalPictureBox28";
+            this.ovalPictureBox28.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox28.TabIndex = 28;
+            this.ovalPictureBox28.TabStop = false;
+            this.ovalPictureBox28.Click += new System.EventHandler(this.ovalPictureBox28_Click);
+            // 
+            // ovalPictureBox48
+            // 
+            this.ovalPictureBox48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox48.Location = new System.Drawing.Point(187, 16);
+            this.ovalPictureBox48.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox48.Name = "ovalPictureBox48";
+            this.ovalPictureBox48.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox48.TabIndex = 48;
+            this.ovalPictureBox48.TabStop = false;
+            this.ovalPictureBox48.Click += new System.EventHandler(this.ovalPictureBox48_Click);
+            // 
+            // ovalPictureBox27
+            // 
+            this.ovalPictureBox27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox27.Location = new System.Drawing.Point(99, 162);
+            this.ovalPictureBox27.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox27.Name = "ovalPictureBox27";
+            this.ovalPictureBox27.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox27.TabIndex = 29;
+            this.ovalPictureBox27.TabStop = false;
+            this.ovalPictureBox27.Click += new System.EventHandler(this.ovalPictureBox27_Click);
+            // 
+            // ovalPictureBox26
+            // 
+            this.ovalPictureBox26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox26.Location = new System.Drawing.Point(99, 192);
+            this.ovalPictureBox26.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox26.Name = "ovalPictureBox26";
+            this.ovalPictureBox26.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox26.TabIndex = 30;
+            this.ovalPictureBox26.TabStop = false;
+            this.ovalPictureBox26.Click += new System.EventHandler(this.ovalPictureBox26_Click);
+            // 
+            // ovalPictureBox49
+            // 
+            this.ovalPictureBox49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox49.Location = new System.Drawing.Point(158, 220);
+            this.ovalPictureBox49.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox49.Name = "ovalPictureBox49";
+            this.ovalPictureBox49.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox49.TabIndex = 47;
+            this.ovalPictureBox49.TabStop = false;
+            this.ovalPictureBox49.Click += new System.EventHandler(this.ovalPictureBox49_Click);
+            // 
+            // ovalPictureBox25
+            // 
+            this.ovalPictureBox25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox25.Location = new System.Drawing.Point(99, 220);
+            this.ovalPictureBox25.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox25.Name = "ovalPictureBox25";
+            this.ovalPictureBox25.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox25.TabIndex = 31;
+            this.ovalPictureBox25.TabStop = false;
+            this.ovalPictureBox25.Click += new System.EventHandler(this.ovalPictureBox25_Click);
+            // 
+            // ovalPictureBox64
+            // 
+            this.ovalPictureBox64.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox64.Location = new System.Drawing.Point(128, 16);
+            this.ovalPictureBox64.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox64.Name = "ovalPictureBox64";
+            this.ovalPictureBox64.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox64.TabIndex = 32;
+            this.ovalPictureBox64.TabStop = false;
+            this.ovalPictureBox64.Click += new System.EventHandler(this.ovalPictureBox64_Click);
+            // 
+            // ovalPictureBox50
+            // 
+            this.ovalPictureBox50.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox50.Location = new System.Drawing.Point(158, 192);
+            this.ovalPictureBox50.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox50.Name = "ovalPictureBox50";
+            this.ovalPictureBox50.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox50.TabIndex = 46;
+            this.ovalPictureBox50.TabStop = false;
+            this.ovalPictureBox50.Click += new System.EventHandler(this.ovalPictureBox50_Click);
+            // 
+            // ovalPictureBox63
+            // 
+            this.ovalPictureBox63.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox63.Location = new System.Drawing.Point(128, 45);
+            this.ovalPictureBox63.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox63.Name = "ovalPictureBox63";
+            this.ovalPictureBox63.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox63.TabIndex = 33;
+            this.ovalPictureBox63.TabStop = false;
+            this.ovalPictureBox63.Click += new System.EventHandler(this.ovalPictureBox63_Click);
+            // 
+            // ovalPictureBox62
+            // 
+            this.ovalPictureBox62.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox62.Location = new System.Drawing.Point(128, 73);
+            this.ovalPictureBox62.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox62.Name = "ovalPictureBox62";
+            this.ovalPictureBox62.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox62.TabIndex = 34;
+            this.ovalPictureBox62.TabStop = false;
+            this.ovalPictureBox62.Click += new System.EventHandler(this.ovalPictureBox62_Click);
+            // 
+            // ovalPictureBox51
+            // 
+            this.ovalPictureBox51.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox51.Location = new System.Drawing.Point(158, 162);
+            this.ovalPictureBox51.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox51.Name = "ovalPictureBox51";
+            this.ovalPictureBox51.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox51.TabIndex = 45;
+            this.ovalPictureBox51.TabStop = false;
+            this.ovalPictureBox51.Click += new System.EventHandler(this.ovalPictureBox51_Click);
+            // 
+            // ovalPictureBox61
+            // 
+            this.ovalPictureBox61.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox61.Location = new System.Drawing.Point(128, 102);
+            this.ovalPictureBox61.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox61.Name = "ovalPictureBox61";
+            this.ovalPictureBox61.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox61.TabIndex = 35;
+            this.ovalPictureBox61.TabStop = false;
+            this.ovalPictureBox61.Click += new System.EventHandler(this.ovalPictureBox61_Click);
+            // 
+            // ovalPictureBox60
+            // 
+            this.ovalPictureBox60.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox60.Location = new System.Drawing.Point(128, 131);
+            this.ovalPictureBox60.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox60.Name = "ovalPictureBox60";
+            this.ovalPictureBox60.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox60.TabIndex = 36;
+            this.ovalPictureBox60.TabStop = false;
+            this.ovalPictureBox60.Click += new System.EventHandler(this.ovalPictureBox60_Click);
+            // 
+            // ovalPictureBox52
+            // 
+            this.ovalPictureBox52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox52.Location = new System.Drawing.Point(158, 131);
+            this.ovalPictureBox52.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox52.Name = "ovalPictureBox52";
+            this.ovalPictureBox52.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox52.TabIndex = 44;
+            this.ovalPictureBox52.TabStop = false;
+            this.ovalPictureBox52.Click += new System.EventHandler(this.ovalPictureBox52_Click);
+            // 
+            // ovalPictureBox59
+            // 
+            this.ovalPictureBox59.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox59.Location = new System.Drawing.Point(128, 162);
+            this.ovalPictureBox59.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox59.Name = "ovalPictureBox59";
+            this.ovalPictureBox59.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox59.TabIndex = 37;
+            this.ovalPictureBox59.TabStop = false;
+            this.ovalPictureBox59.Click += new System.EventHandler(this.ovalPictureBox59_Click);
+            // 
+            // ovalPictureBox58
+            // 
+            this.ovalPictureBox58.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox58.Location = new System.Drawing.Point(128, 192);
+            this.ovalPictureBox58.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox58.Name = "ovalPictureBox58";
+            this.ovalPictureBox58.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox58.TabIndex = 38;
+            this.ovalPictureBox58.TabStop = false;
+            this.ovalPictureBox58.Click += new System.EventHandler(this.ovalPictureBox58_Click);
+            // 
+            // ovalPictureBox53
+            // 
+            this.ovalPictureBox53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox53.Location = new System.Drawing.Point(158, 102);
+            this.ovalPictureBox53.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox53.Name = "ovalPictureBox53";
+            this.ovalPictureBox53.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox53.TabIndex = 43;
+            this.ovalPictureBox53.TabStop = false;
+            this.ovalPictureBox53.Click += new System.EventHandler(this.ovalPictureBox53_Click);
+            // 
+            // ovalPictureBox57
+            // 
+            this.ovalPictureBox57.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox57.Location = new System.Drawing.Point(128, 220);
+            this.ovalPictureBox57.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox57.Name = "ovalPictureBox57";
+            this.ovalPictureBox57.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox57.TabIndex = 39;
+            this.ovalPictureBox57.TabStop = false;
+            this.ovalPictureBox57.Click += new System.EventHandler(this.ovalPictureBox57_Click);
+            // 
+            // ovalPictureBox56
+            // 
+            this.ovalPictureBox56.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox56.Location = new System.Drawing.Point(158, 16);
+            this.ovalPictureBox56.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox56.Name = "ovalPictureBox56";
+            this.ovalPictureBox56.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox56.TabIndex = 40;
+            this.ovalPictureBox56.TabStop = false;
+            this.ovalPictureBox56.Click += new System.EventHandler(this.ovalPictureBox56_Click);
+            // 
+            // ovalPictureBox54
+            // 
+            this.ovalPictureBox54.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox54.Location = new System.Drawing.Point(158, 73);
+            this.ovalPictureBox54.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox54.Name = "ovalPictureBox54";
+            this.ovalPictureBox54.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox54.TabIndex = 42;
+            this.ovalPictureBox54.TabStop = false;
+            this.ovalPictureBox54.Click += new System.EventHandler(this.ovalPictureBox54_Click);
+            // 
+            // ovalPictureBox55
+            // 
+            this.ovalPictureBox55.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.ovalPictureBox55.Location = new System.Drawing.Point(158, 45);
+            this.ovalPictureBox55.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.ovalPictureBox55.Name = "ovalPictureBox55";
+            this.ovalPictureBox55.Size = new System.Drawing.Size(25, 25);
+            this.ovalPictureBox55.TabIndex = 41;
+            this.ovalPictureBox55.TabStop = false;
+            this.ovalPictureBox55.Click += new System.EventHandler(this.ovalPictureBox55_Click);
             // 
             // textBox1
             // 
@@ -987,22 +985,22 @@ namespace WindowsFormsApp1
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.ForeColor = System.Drawing.Color.Lime;
-            this.textBox1.Location = new System.Drawing.Point(572, 48);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox1.Location = new System.Drawing.Point(429, 39);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox1.Name = "textBox1";
             this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(140, 22);
+            this.textBox1.Size = new System.Drawing.Size(105, 17);
             this.textBox1.TabIndex = 2;
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(248, 425);
-            this.button1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button1.Location = new System.Drawing.Point(186, 345);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(84, 27);
+            this.button1.Size = new System.Drawing.Size(63, 22);
             this.button1.TabIndex = 3;
-            this.button1.Text = "Shendrro";
+            this.button1.Text = "Convert";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -1010,23 +1008,21 @@ namespace WindowsFormsApp1
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(464, 50);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Location = new System.Drawing.Point(348, 41);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(102, 17);
+            this.label1.Size = new System.Drawing.Size(78, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Kolona 1 (Bin):";
+            this.label1.Text = "Column 1 (Bin):";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.Blue;
-            this.label2.Location = new System.Drawing.Point(464, 89);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Location = new System.Drawing.Point(348, 72);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(102, 17);
+            this.label2.Size = new System.Drawing.Size(78, 13);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Kolona 2 (Bin):";
+            this.label2.Text = "Column 2 (Bin):";
             // 
             // textBox2
             // 
@@ -1034,11 +1030,11 @@ namespace WindowsFormsApp1
             this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.ForeColor = System.Drawing.Color.Lime;
-            this.textBox2.Location = new System.Drawing.Point(572, 86);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox2.Location = new System.Drawing.Point(429, 70);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox2.Name = "textBox2";
             this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(140, 22);
+            this.textBox2.Size = new System.Drawing.Size(105, 17);
             this.textBox2.TabIndex = 5;
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1046,12 +1042,11 @@ namespace WindowsFormsApp1
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.Blue;
-            this.label3.Location = new System.Drawing.Point(464, 124);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Location = new System.Drawing.Point(348, 101);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(102, 17);
+            this.label3.Size = new System.Drawing.Size(78, 13);
             this.label3.TabIndex = 8;
-            this.label3.Text = "Kolona 3 (Bin):";
+            this.label3.Text = "Column 3 (Bin):";
             // 
             // textBox3
             // 
@@ -1059,11 +1054,11 @@ namespace WindowsFormsApp1
             this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.ForeColor = System.Drawing.Color.Lime;
-            this.textBox3.Location = new System.Drawing.Point(572, 121);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox3.Location = new System.Drawing.Point(429, 98);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox3.Name = "textBox3";
             this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(140, 22);
+            this.textBox3.Size = new System.Drawing.Size(105, 17);
             this.textBox3.TabIndex = 7;
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1071,12 +1066,11 @@ namespace WindowsFormsApp1
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.Blue;
-            this.label4.Location = new System.Drawing.Point(464, 233);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Location = new System.Drawing.Point(348, 189);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(102, 17);
+            this.label4.Size = new System.Drawing.Size(78, 13);
             this.label4.TabIndex = 14;
-            this.label4.Text = "Kolona 6 (Bin):";
+            this.label4.Text = "Column 6 (Bin):";
             // 
             // textBox6
             // 
@@ -1084,11 +1078,11 @@ namespace WindowsFormsApp1
             this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox6.ForeColor = System.Drawing.Color.Lime;
-            this.textBox6.Location = new System.Drawing.Point(572, 231);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox6.Location = new System.Drawing.Point(429, 188);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(140, 22);
+            this.textBox6.Size = new System.Drawing.Size(105, 17);
             this.textBox6.TabIndex = 13;
             this.textBox6.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1096,12 +1090,11 @@ namespace WindowsFormsApp1
             // 
             this.label5.AutoSize = true;
             this.label5.ForeColor = System.Drawing.Color.Blue;
-            this.label5.Location = new System.Drawing.Point(464, 198);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Location = new System.Drawing.Point(348, 161);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(102, 17);
+            this.label5.Size = new System.Drawing.Size(78, 13);
             this.label5.TabIndex = 12;
-            this.label5.Text = "Kolona 5 (Bin):";
+            this.label5.Text = "Column 5 (Bin):";
             // 
             // textBox5
             // 
@@ -1109,11 +1102,11 @@ namespace WindowsFormsApp1
             this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox5.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox5.ForeColor = System.Drawing.Color.Lime;
-            this.textBox5.Location = new System.Drawing.Point(572, 196);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox5.Location = new System.Drawing.Point(429, 159);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(140, 22);
+            this.textBox5.Size = new System.Drawing.Size(105, 17);
             this.textBox5.TabIndex = 11;
             this.textBox5.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1121,12 +1114,11 @@ namespace WindowsFormsApp1
             // 
             this.label6.AutoSize = true;
             this.label6.ForeColor = System.Drawing.Color.Blue;
-            this.label6.Location = new System.Drawing.Point(464, 160);
-            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Location = new System.Drawing.Point(348, 130);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(102, 17);
+            this.label6.Size = new System.Drawing.Size(78, 13);
             this.label6.TabIndex = 10;
-            this.label6.Text = "Kolona 4 (Bin):";
+            this.label6.Text = "Column 4 (Bin):";
             // 
             // textBox4
             // 
@@ -1134,11 +1126,11 @@ namespace WindowsFormsApp1
             this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.ForeColor = System.Drawing.Color.Lime;
-            this.textBox4.Location = new System.Drawing.Point(572, 158);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox4.Location = new System.Drawing.Point(429, 128);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox4.Name = "textBox4";
             this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(140, 22);
+            this.textBox4.Size = new System.Drawing.Size(105, 17);
             this.textBox4.TabIndex = 9;
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1146,12 +1138,12 @@ namespace WindowsFormsApp1
             // 
             this.label7.AutoSize = true;
             this.label7.ForeColor = System.Drawing.Color.Blue;
-            this.label7.Location = new System.Drawing.Point(464, 303);
-            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Location = new System.Drawing.Point(348, 246);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(102, 17);
+            this.label7.Size = new System.Drawing.Size(78, 13);
             this.label7.TabIndex = 18;
-            this.label7.Text = "Kolona 8 (Bin):";
+            this.label7.Text = "Column 8 (Bin):";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // textBox7
             // 
@@ -1159,11 +1151,11 @@ namespace WindowsFormsApp1
             this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox7.ForeColor = System.Drawing.Color.Lime;
-            this.textBox7.Location = new System.Drawing.Point(572, 265);
-            this.textBox7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox7.Location = new System.Drawing.Point(429, 215);
+            this.textBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(140, 22);
+            this.textBox7.Size = new System.Drawing.Size(105, 17);
             this.textBox7.TabIndex = 17;
             this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
@@ -1171,12 +1163,11 @@ namespace WindowsFormsApp1
             // 
             this.label8.AutoSize = true;
             this.label8.ForeColor = System.Drawing.Color.Blue;
-            this.label8.Location = new System.Drawing.Point(464, 267);
-            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Location = new System.Drawing.Point(348, 217);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(102, 17);
+            this.label8.Size = new System.Drawing.Size(78, 13);
             this.label8.TabIndex = 16;
-            this.label8.Text = "Kolona 7 (Bin):";
+            this.label8.Text = "Column 7 (Bin):";
             // 
             // textBox8
             // 
@@ -1184,20 +1175,20 @@ namespace WindowsFormsApp1
             this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.textBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox8.ForeColor = System.Drawing.Color.Lime;
-            this.textBox8.Location = new System.Drawing.Point(572, 297);
-            this.textBox8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.textBox8.Location = new System.Drawing.Point(429, 241);
+            this.textBox8.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.textBox8.Name = "textBox8";
             this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(140, 22);
+            this.textBox8.Size = new System.Drawing.Size(105, 17);
             this.textBox8.TabIndex = 15;
             this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(104, 409);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.richTextBox1.Location = new System.Drawing.Point(78, 332);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(112, 79);
+            this.richTextBox1.Size = new System.Drawing.Size(85, 65);
             this.richTextBox1.TabIndex = 19;
             this.richTextBox1.Text = "";
             // 
@@ -1205,11 +1196,11 @@ namespace WindowsFormsApp1
             // 
             this.richTextBox2.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.richTextBox2.ForeColor = System.Drawing.Color.Red;
-            this.richTextBox2.Location = new System.Drawing.Point(104, 340);
-            this.richTextBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.richTextBox2.Location = new System.Drawing.Point(78, 276);
+            this.richTextBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.richTextBox2.Name = "richTextBox2";
             this.richTextBox2.ReadOnly = true;
-            this.richTextBox2.Size = new System.Drawing.Size(251, 21);
+            this.richTextBox2.Size = new System.Drawing.Size(189, 18);
             this.richTextBox2.TabIndex = 20;
             this.richTextBox2.Text = "";
             // 
@@ -1217,11 +1208,11 @@ namespace WindowsFormsApp1
             // 
             this.richTextBox3.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.richTextBox3.ForeColor = System.Drawing.Color.Fuchsia;
-            this.richTextBox3.Location = new System.Drawing.Point(104, 379);
-            this.richTextBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.richTextBox3.Location = new System.Drawing.Point(78, 308);
+            this.richTextBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.richTextBox3.Name = "richTextBox3";
             this.richTextBox3.ReadOnly = true;
-            this.richTextBox3.Size = new System.Drawing.Size(251, 21);
+            this.richTextBox3.Size = new System.Drawing.Size(189, 18);
             this.richTextBox3.TabIndex = 21;
             this.richTextBox3.Text = "";
             // 
@@ -1229,9 +1220,10 @@ namespace WindowsFormsApp1
             // 
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label9.Location = new System.Drawing.Point(21, 342);
+            this.label9.Location = new System.Drawing.Point(16, 278);
+            this.label9.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(75, 17);
+            this.label9.Size = new System.Drawing.Size(60, 13);
             this.label9.TabIndex = 22;
             this.label9.Text = "Decimal :";
             // 
@@ -1239,9 +1231,10 @@ namespace WindowsFormsApp1
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label10.Location = new System.Drawing.Point(11, 382);
+            this.label10.Location = new System.Drawing.Point(8, 310);
+            this.label10.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(86, 17);
+            this.label10.Size = new System.Drawing.Size(69, 13);
             this.label10.TabIndex = 23;
             this.label10.Text = "HDecimal :";
             // 
@@ -1249,9 +1242,10 @@ namespace WindowsFormsApp1
             // 
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label11.Location = new System.Drawing.Point(31, 425);
+            this.label11.Location = new System.Drawing.Point(23, 345);
+            this.label11.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(65, 17);
+            this.label11.Size = new System.Drawing.Size(51, 13);
             this.label11.TabIndex = 24;
             this.label11.Text = "Binare :";
             // 
@@ -1269,33 +1263,31 @@ namespace WindowsFormsApp1
             this.groupBox2.Controls.Add(this.com_porta);
             this.groupBox2.Controls.Add(this.shk_btn);
             this.groupBox2.Controls.Add(this.l_btn);
-            this.groupBox2.Location = new System.Drawing.Point(375, 340);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.groupBox2.Location = new System.Drawing.Point(281, 276);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.groupBox2.Size = new System.Drawing.Size(432, 159);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Size = new System.Drawing.Size(324, 129);
             this.groupBox2.TabIndex = 25;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = "Modbus Arduino";
+            this.groupBox2.Text = "Modbus Panel";
             // 
             // dergo_
             // 
-            this.dergo_.Location = new System.Drawing.Point(229, 79);
-            this.dergo_.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.dergo_.Location = new System.Drawing.Point(172, 64);
             this.dergo_.Name = "dergo_";
-            this.dergo_.Size = new System.Drawing.Size(181, 28);
+            this.dergo_.Size = new System.Drawing.Size(136, 23);
             this.dergo_.TabIndex = 27;
-            this.dergo_.Text = "Dergo (Mesazhin)";
+            this.dergo_.Text = "Send (Message)";
             this.dergo_.UseVisualStyleBackColor = true;
             this.dergo_.Click += new System.EventHandler(this.button3_Click);
             // 
             // label16
             // 
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(305, 132);
-            this.label16.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label16.Location = new System.Drawing.Point(229, 107);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(16, 17);
+            this.label16.Size = new System.Drawing.Size(14, 13);
             this.label16.TabIndex = 26;
             this.label16.Text = "~";
             // 
@@ -1303,61 +1295,57 @@ namespace WindowsFormsApp1
             // 
             this.label15.AutoSize = true;
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(213, 127);
-            this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label15.Location = new System.Drawing.Point(160, 103);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(75, 18);
+            this.label15.Size = new System.Drawing.Size(64, 15);
             this.label15.TabIndex = 10;
-            this.label15.Text = "Gjendja :";
+            this.label15.Text = "Column :";
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(19, 124);
-            this.button2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.button2.Location = new System.Drawing.Point(14, 101);
+            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(171, 25);
+            this.button2.Size = new System.Drawing.Size(137, 20);
             this.button2.TabIndex = 9;
-            this.button2.Text = "Ploteso Automatikisht";
+            this.button2.Text = "Fill automaticly";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(240, 23);
-            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label14.Location = new System.Drawing.Point(180, 19);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(56, 17);
+            this.label14.Size = new System.Drawing.Size(45, 13);
             this.label14.TabIndex = 8;
             this.label14.Text = "SlaveID";
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(12, 58);
-            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label13.Location = new System.Drawing.Point(9, 47);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(71, 17);
+            this.label13.Size = new System.Drawing.Size(55, 13);
             this.label13.TabIndex = 7;
             this.label13.Text = "BaudRate";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(15, 23);
-            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label12.Location = new System.Drawing.Point(11, 19);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(70, 17);
+            this.label12.Size = new System.Drawing.Size(47, 13);
             this.label12.TabIndex = 6;
-            this.label12.Text = "ComPorta";
+            this.label12.Text = "ComPort";
             // 
             // s_id
             // 
             this.s_id.FormattingEnabled = true;
-            this.s_id.Location = new System.Drawing.Point(301, 20);
-            this.s_id.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.s_id.Location = new System.Drawing.Point(226, 16);
+            this.s_id.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.s_id.Name = "s_id";
-            this.s_id.Size = new System.Drawing.Size(108, 24);
+            this.s_id.Size = new System.Drawing.Size(82, 21);
             this.s_id.TabIndex = 4;
             this.s_id.DropDown += new System.EventHandler(this.comboBox2_DropDown);
             // 
@@ -1368,81 +1356,78 @@ namespace WindowsFormsApp1
             "9600",
             "19200",
             "115200"});
-            this._baudrate.Location = new System.Drawing.Point(92, 52);
-            this._baudrate.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this._baudrate.Location = new System.Drawing.Point(69, 42);
+            this._baudrate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this._baudrate.Name = "_baudrate";
-            this._baudrate.Size = new System.Drawing.Size(108, 24);
+            this._baudrate.Size = new System.Drawing.Size(82, 21);
             this._baudrate.TabIndex = 3;
             // 
             // com_porta
             // 
             this.com_porta.FormattingEnabled = true;
-            this.com_porta.Location = new System.Drawing.Point(92, 20);
-            this.com_porta.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.com_porta.Location = new System.Drawing.Point(69, 16);
+            this.com_porta.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.com_porta.Name = "com_porta";
-            this.com_porta.Size = new System.Drawing.Size(108, 24);
+            this.com_porta.Size = new System.Drawing.Size(82, 21);
             this.com_porta.TabIndex = 2;
             this.com_porta.DropDown += new System.EventHandler(this.com_porta_DropDown);
             this.com_porta.SelectedIndexChanged += new System.EventHandler(this.com_porta_SelectedIndexChanged);
             // 
             // shk_btn
             // 
-            this.shk_btn.Location = new System.Drawing.Point(105, 95);
-            this.shk_btn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.shk_btn.Location = new System.Drawing.Point(79, 77);
+            this.shk_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.shk_btn.Name = "shk_btn";
-            this.shk_btn.Size = new System.Drawing.Size(84, 25);
+            this.shk_btn.Size = new System.Drawing.Size(72, 20);
             this.shk_btn.TabIndex = 1;
-            this.shk_btn.Text = "Shkyqu";
+            this.shk_btn.Text = "Disconnect";
             this.shk_btn.UseVisualStyleBackColor = true;
             this.shk_btn.Click += new System.EventHandler(this.shk_btn_Click);
             // 
             // l_btn
             // 
-            this.l_btn.Location = new System.Drawing.Point(16, 95);
-            this.l_btn.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.l_btn.Location = new System.Drawing.Point(12, 77);
+            this.l_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.l_btn.Name = "l_btn";
-            this.l_btn.Size = new System.Drawing.Size(84, 25);
+            this.l_btn.Size = new System.Drawing.Size(63, 20);
             this.l_btn.TabIndex = 0;
-            this.l_btn.Text = "Lidhu";
+            this.l_btn.Text = "Connect";
             this.l_btn.UseVisualStyleBackColor = true;
             this.l_btn.Click += new System.EventHandler(this.l_btn_Click);
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(375, 498);
-            this.progressBar1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.progressBar1.Location = new System.Drawing.Point(281, 405);
             this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(432, 18);
+            this.progressBar1.Size = new System.Drawing.Size(324, 15);
             this.progressBar1.TabIndex = 26;
             // 
             // label17
             // 
             this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(4, 498);
-            this.label17.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label17.Location = new System.Drawing.Point(3, 405);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(140, 17);
+            this.label17.Size = new System.Drawing.Size(110, 13);
             this.label17.TabIndex = 28;
-            this.label17.Text = "Mesazhi via modbus:";
+            this.label17.Text = "Message via modbus:";
             // 
             // mesazhi_lbl
             // 
             this.mesazhi_lbl.AutoSize = true;
             this.mesazhi_lbl.ForeColor = System.Drawing.Color.Red;
-            this.mesazhi_lbl.Location = new System.Drawing.Point(141, 498);
-            this.mesazhi_lbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.mesazhi_lbl.Location = new System.Drawing.Point(106, 405);
             this.mesazhi_lbl.Name = "mesazhi_lbl";
-            this.mesazhi_lbl.Size = new System.Drawing.Size(24, 17);
+            this.mesazhi_lbl.Size = new System.Drawing.Size(21, 13);
             this.mesazhi_lbl.TabIndex = 29;
             this.mesazhi_lbl.Text = "~~";
             this.mesazhi_lbl.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(811, 518);
+            this.ClientSize = new System.Drawing.Size(608, 421);
             this.Controls.Add(this.mesazhi_lbl);
             this.Controls.Add(this.label17);
             this.Controls.Add(this.progressBar1);
@@ -1471,75 +1456,75 @@ namespace WindowsFormsApp1
             this.Controls.Add(this.button1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.groupBox1);
-            this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "8x8 LED";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox33)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox34)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox35)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox36)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox37)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox38)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox39)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox40)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox41)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox42)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox43)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox44)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox45)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox46)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox47)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox48)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox49)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox50)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox51)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox52)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox53)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox54)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox55)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox56)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox57)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox58)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox59)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox60)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox61)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox62)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox63)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox64)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox25)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox26)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox27)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox28)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox29)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox30)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox31)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox32)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox17)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox18)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox20)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox21)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox22)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox23)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox9)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox10)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox11)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox12)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox13)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox15)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox16)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox34)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox35)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox36)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox37)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox38)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox16)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox15)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox39)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox14)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox40)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox13)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox41)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox24)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox42)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox23)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox22)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox43)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox21)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox20)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox44)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox19)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox18)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox45)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox17)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox32)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox46)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox31)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox30)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox47)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox29)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox28)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox48)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox27)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox26)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox49)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox25)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox64)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox50)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox63)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox62)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox51)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox61)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox60)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox52)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox59)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox58)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox53)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox57)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox56)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox54)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.ovalPictureBox55)).EndInit();
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);

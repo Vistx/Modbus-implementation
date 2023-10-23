@@ -127,7 +127,7 @@ namespace SimpleFunctionGui
             {
                 _master.WriteSingleRegister(1, reg_value, value);
                 richTextBox1.AppendText("\n");
-                richTextBox1.AppendText("In Reg:["+reg_value+"] Wrote  Value"+ value_box.Text);
+                richTextBox1.AppendText("In Reg:["+reg_value+"] Wrote  Value "+ value_box.Text);
 
             }
             else

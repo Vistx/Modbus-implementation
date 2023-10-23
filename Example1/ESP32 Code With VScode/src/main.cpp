@@ -6,16 +6,18 @@
 #define TXEN  4
 #define HARDWARE_TYPE MD_MAX72XX::GENERIC_HW
 #define MAX_DEVICES 1 // 1 block
-#define CS_PIN 21
-int delay_time_interval=1000;
-Modbus slave(1,Serial,TXEN); //Slave ID-ja 1
-uint16_t au16data[16] = {0, 0,0, 0, 0, 0,0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+#define CLK_PIN   18 // or SCK
+#define DATA_PIN  19 // or MOSI
+#define CS_PIN    5 // or SS
+
+Modbus slave(1,Serial,TXEN); //Slave ID 1
+uint16_t au16data[16] = {129,0,0,24,24,0,0,129, 0, 0, 0, 0, 0, 0, 0, 0 };
 // create an instance of the MD_Parola class
-MD_MAX72XX  ledMatrix = MD_MAX72XX(HARDWARE_TYPE, CS_PIN, MAX_DEVICES);
+MD_MAX72XX  ledMatrix = MD_MAX72XX(HARDWARE_TYPE, DATA_PIN, CLK_PIN, CS_PIN, MAX_DEVICES);
 
 void setup() {
   ledMatrix.begin();
-  ledMatrix.control(MD_MAX72XX::INTENSITY, 8);
+  ledMatrix.control(MD_MAX72XX::INTENSITY, 15);
   ledMatrix.clear();
   Serial.begin( 115200 ); 
 slave.start();

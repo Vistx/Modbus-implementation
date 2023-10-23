@@ -24,3 +24,16 @@ C:\Users\Lenovo\Desktop\art\Led Matrix\WindowsFormsApp1\obj\Debug\WindowsFormsAp
 C:\Users\Lenovo\Desktop\art\Led Matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
 C:\Users\Lenovo\Desktop\art\Led Matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Lenovo\Desktop\art\Led Matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\bin\Debug\EasyModbus.dll
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\bin\Debug\EasyModbus.xml
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Lenovo\Desktop\Modbus implementation\Example1\GUI Led matrix\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
