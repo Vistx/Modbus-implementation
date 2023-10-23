@@ -111,7 +111,7 @@ Each of the numbers in the Modbus RTU message represents the bit position of the
 
 
 **How are the bit values placed?** <br />
-Take a look at Column 0 and Rows from 0 to 7. The first 2 LED-s are OFF thus 00 , next 4 LED-s are ON so 1111, and lastly 2 LEDs are OFF thus 00
+Take a look at Column 0 and Rows from 0 to 7. The first 2 LED-s are OFF thus 00 , next 4 LED-s are ON so 1111, and lastly 2 LEDs are OFF thus 00.
 So the entire message is **00111100** in binary, or **60** in decimal form, which in terms represents our first RTU message, audata16[0]=60 next  Column 0 is **01000010** in binary, or **66** in decimal form and so on .
 
 Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
