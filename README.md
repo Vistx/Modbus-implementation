@@ -102,8 +102,8 @@ Connect  the max 485 module to the ESP 32 like so :
 - CLK --> GPIO 18
 
 
-## 🔎 Details <br />
-Each of the numbers in the Modbus rtu message represents the bit position of the matrix but expressed in decimal form. 
+## 🔎 Details
+Each of the numbers in the Modbus RTU message represents the bit position of the matrix but expressed in decimal form. 
 
 ![Screenshot 2023-10-23 110335](https://github.com/Vistx/Modbus-implementation/assets/123487221/1012993d-7afb-4896-a404-1434d5cf36fc)
 {[img source](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)}
@@ -114,10 +114,18 @@ Each of the numbers in the Modbus rtu message represents the bit position of the
 Take a look at Column 0 and Rows from 0 to 7. The first 2 LED-s are OFF thus 00 , next 4 LED-s are ON so 1111, and lastly 2 LEDs are OFF thus 00
 So the entire message is **00111100** in binary, or **60** in decimal form, which in terms represents our first RTU message, audata16[0]=60 next  Column 0 is **01000010** in binary, or **66** in decimal form and so on .
 
+Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
+
 
 ## 💻 Gui <br />
 
+- Open the programm located here:  **Example1/GUI Led matrix/WindowsFormsApp1/**  with Visual studio 2019 </br>
+- or directly : **Example1/GUI Led matrix/WindowsFormsApp1//bin/Debug/WindowsFormsApp1.exe**
+- Connect with your settings tuch the interactive LEDs  and **Send(Message)**
+
 ![Final example1 ](https://github.com/Vistx/Modbus-implementation/assets/123487221/a774abf7-b6ed-4fc3-b4d2-e0216c61cf7c)
+
+
 
 
 
@@ -141,14 +149,20 @@ So the entire message is **00111100** in binary, or **60** in decimal form, whic
 - Trig --> GPIO 5
 - Echo --> GPIO 18
 
-  ## 🔎 Details <br />
+  ## 🔎 Details 
  [Timers](https://www.youtube.com/watch?v=98c200lL-OY) from Winforms are used to request a register from a slave device (ESP32 in our case), we can see the **update interval** in which these registers are requested from the slave device, and the response is used to update the user interface.    
 
 As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
 
 ![details exmp1res](https://github.com/Vistx/Modbus-implementation/assets/123487221/336a4fd6-2757-47a6-8044-ad2281fa717a)
 
+Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
+
 ## 💻 GUI
+- Open the programm located here:  **Example2/HCSR04DisplayReadings**  with Visual studio 2019 </br>
+- or directly : **Example2/HCSR04DisplayReadings/bin/Debug/HCSR04DisplayReadings.exe**
+- Connect with your settings and dont forget to set the request interval the unit is miliseconds
+
 ![Example 2 final](https://github.com/Vistx/Modbus-implementation/assets/123487221/384db91e-85a9-4fc3-9227-9ff6638f2788)
 
 
