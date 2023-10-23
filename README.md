@@ -1,36 +1,36 @@
 # Modbus RTU implementation
 Read more about the **Modbus RTU** [here](https://ozeki.hu/p_5854-modbus-rtu.html).
 
-# Get things up and running
+# 🏃 Get things up and running
 
-## Needed Tools
+## 🔧 Needed Tools
 
 - ESP-Wroom-32 (or Arduino Uno)
 - USB to Micro USB  cable
 
 
-**Optional**
+😏**Optional**
 
 - Max 485 Module
 - USB to RS-485 converter
 - Max7219 LED matrix
 - HCSR-04 Ultra Sonic Sensor
 
-## Programming languages
+## 👨‍💻 Programming languages
 - C# with Visual Studio 2019
 -  C++ with Visual Studio Code  and PlatformIO extension installed [[**tutorial here**]](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/) 
 
-## Libraries 
+## 📖 Libraries 
 - NModbus4 from NuGet ( [**tutorial** ](https://www.youtube.com/watch?v=ohaz_sPLp4Y)) in C# WinForms
 - Modbus Master Slave for Arduino [**github repo**](https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino) [**(setup in VScode tutorial)**](https://www.youtube.com/watch?v=EBlHNBNHESQ)
 - **Example 1** uses  [this](https://github.com/MajicDesigns/MD_MAX72XX) library with Platform  IO for max7219 module
 - **Example 2** uses  [this](https://github.com/gamegine/HCSR04-ultrasonic-sensor-lib) library with Platform  IO for HCSR 04 module
 
 
-##  Hardware Setup Method #1 
+## ⚙️ Hardware Setup Method #1 
 Connect your USB to USB micro With the Esp32 and plug in to one of your PC Ports  (done). Simple yet limited by the USB cable length.
 
-##  Hardware Setup Method #2 
+## ⚙️ Hardware Setup Method #2 
 > Important Note:  **Upload the code** before   **connecting the      RX0 and TX0 pins**
 
 Connect  the max 485 module to the ESP 32 like so :
@@ -51,7 +51,7 @@ Connect  the max 485 module to the ESP 32 like so :
 
 
 
-## Software Setup 
+## 🧑‍💻 Software Setup 
 
 - **Open Project :**  Modbus-implementation / Simple_Example /[Simple Modbus Slave Esp32](https://github.com/Vistx/Modbus-implementation/tree/main/Simple_Example/Simple%20Modbus%20Slave%20Esp32)  **With PlatformIO**
 
@@ -72,7 +72,7 @@ Connect  the max 485 module to the ESP 32 like so :
 ![Gui in action](https://github.com/Vistx/Modbus-implementation/assets/123487221/041a78f2-7641-451b-b8db-684827c5f5fd)
 
 
-# Code Explanation and Important Details 
+# 👨‍🏫 Code Explanation and Important Details 
 `On the ESP32 side of the code, the serial begin baudrate must match  the selected baudrate  in the GUI application. Also the COMport must be in use by other software `
 
 `Also, the slave ID in the ESP32  must match the ID of the called function in C# .  `
@@ -81,9 +81,14 @@ Connect  the max 485 module to the ESP 32 like so :
 
  `Technically, you can connect over 240 slave devices on the same serial connection, all you have to do is change the slave ID for each one and call the specific device by that unique ID from the GUI.`
 
+
+
+
+
+
 # Example 1
 
-## Wiring
+## 🔌 Wiring
 
 ![Example 1 Pinoutres](https://github.com/Vistx/Modbus-implementation/assets/123487221/5b3c8281-07c9-421c-b0d4-0dc0064464ef)
 
@@ -97,7 +102,7 @@ Connect  the max 485 module to the ESP 32 like so :
 - CLK --> GPIO 18
 
 
-## Details <br />
+## 🔎 Details <br />
 Each of the numbers in the Modbus rtu message represents the bit position of the matrix but expressed in decimal form. 
 
 ![Screenshot 2023-10-23 110335](https://github.com/Vistx/Modbus-implementation/assets/123487221/1012993d-7afb-4896-a404-1434d5cf36fc)
@@ -110,7 +115,7 @@ Take a look at Column 0 and Rows from 0 to 7. The first 2 LED-s are OFF thus 00 
 So the entire message is **00111100** in binary, or **60** in decimal form, which in terms represents our first RTU message, audata16[0]=60 next  Column 0 is **01000010** in binary, or **66** in decimal form and so on .
 
 
-## Gui <br />
+## 💻 Gui <br />
 
 ![Final example1 ](https://github.com/Vistx/Modbus-implementation/assets/123487221/a774abf7-b6ed-4fc3-b4d2-e0216c61cf7c)
 
@@ -119,9 +124,15 @@ So the entire message is **00111100** in binary, or **60** in decimal form, whic
 
 
 
+
+
+
+
+
+
 # Example 2
 
-## Wiring
+## 🔌 Wiring
 
 ![example 2 Pin Conres](https://github.com/Vistx/Modbus-implementation/assets/123487221/9142f0b6-ecaa-46fc-87a4-277e93efd6b0)
 
@@ -130,14 +141,14 @@ So the entire message is **00111100** in binary, or **60** in decimal form, whic
 - Trig --> GPIO 5
 - Echo --> GPIO 18
 
-  ## Details <br />
+  ## 🔎 Details <br />
  [Timers](https://www.youtube.com/watch?v=98c200lL-OY) from Winforms are used to request a register from a slave device (ESP32 in our case), we can see the **update interval** in which these registers are requested from the slave device, and the response is used to update the user interface.    
 
 As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
 
 ![details exmp1res](https://github.com/Vistx/Modbus-implementation/assets/123487221/336a4fd6-2757-47a6-8044-ad2281fa717a)
 
-## GUI
+## 💻 GUI
 ![Example 2 final](https://github.com/Vistx/Modbus-implementation/assets/123487221/384db91e-85a9-4fc3-9227-9ff6638f2788)
 
 
