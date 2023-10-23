@@ -166,4 +166,17 @@ Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
 ![Example 2 final](https://github.com/Vistx/Modbus-implementation/assets/123487221/384db91e-85a9-4fc3-9227-9ff6638f2788)
 
 
+# Multiple ESP-32Slave devices
+![multiple arduinos final](https://github.com/Vistx/Modbus-implementation/assets/123487221/df9c0212-8ac0-43a1-9560-d0f601613279)
+
+- To call the firts (ID 1) device change the parameters to the the shown function 
+![master1](https://github.com/Vistx/Modbus-implementation/assets/123487221/b74be6dd-96c0-45a2-bfed-79861c357c36)
+- To call the second (ID 2) device change the parameters to the the shown function
+![master2](https://github.com/Vistx/Modbus-implementation/assets/123487221/3c928c67-3aa6-403e-b72c-efc8dc5fa06e)
+- To call the third (ID 3) device change the parameters to the the shown function
+  ![master3](https://github.com/Vistx/Modbus-implementation/assets/123487221/6121d649-da37-4fb2-b1f8-75a9eb6bc92f)
+
+
+
+
 
