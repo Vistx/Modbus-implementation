@@ -149,7 +149,7 @@ Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
 - Trig --> GPIO 5
 - Echo --> GPIO 18
 
-  ## 🔎 Details 
+## 🔎 Details 
  [Timers](https://www.youtube.com/watch?v=98c200lL-OY) from Winforms are used to request a register from a slave device (ESP32 in our case), we can see the **update interval** in which these registers are requested from the slave device, and the response is used to update the user interface.    
 
 As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
