@@ -62,11 +62,13 @@ Connect  the max 485 module to the ESP 32 like so :
 ![3](https://github.com/Vistx/Modbus-implementation/assets/123487221/7b472964-d032-4bdb-a2b1-38461929dccf)
 
 - **Open GUI:** Modbus-implementation / Simple_Example /
+  
 ![4](https://github.com/Vistx/Modbus-implementation/assets/123487221/e38ac4a1-360c-4e29-ade4-a37a06e3633d)
    
 
 
 - **Connect** and do **Read and Write Holding Registers** operations
+  
 ![5](https://github.com/Vistx/Modbus-implementation/assets/123487221/86fbf0ba-6f60-4993-ac28-219f110f89db)
 
 
@@ -129,21 +131,10 @@ Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Example 2
 
 ## 🔌 Wiring
+
 ![10](https://github.com/Vistx/Modbus-implementation/assets/123487221/37496fca-ecdc-4b10-b0d4-5d3340fc3271)
 
 
@@ -170,14 +161,20 @@ Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
 ![12](https://github.com/Vistx/Modbus-implementation/assets/123487221/8d2276f6-0aa4-427a-aea6-e064755be413)
 
 # Multiple ESP-32 Slave devices
+
 ![13](https://github.com/Vistx/Modbus-implementation/assets/123487221/3cbc9467-56b8-4d83-b0ab-49f0ec257e42)
 
-- To call the firts (ID 1) device change the parameters to the the shown function 
-![master1](https://github.com/Vistx/Modbus-implementation/assets/123487221/b74be6dd-96c0-45a2-bfed-79861c357c36)
+- To call the firts (ID 1) device change the parameters to the the shown function
+  
+![1 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/f2ddfe25-a26b-4910-b4b7-9075b40c612a)
+
 - To call the second (ID 2) device change the parameters to the the shown function
-![master2](https://github.com/Vistx/Modbus-implementation/assets/123487221/3c928c67-3aa6-403e-b72c-efc8dc5fa06e)
+
+![2 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/dd2da17c-2064-43bf-9051-7651f57f635a)
+
 - To call the third (ID 3) device change the parameters to the the shown function
-  ![master3](https://github.com/Vistx/Modbus-implementation/assets/123487221/6121d649-da37-4fb2-b1f8-75a9eb6bc92f)
+
+![3 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/941e9ce2-39ac-49dd-8aa3-85235522f8e6)
 
 
 
