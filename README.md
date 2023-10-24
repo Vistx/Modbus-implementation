@@ -164,15 +164,15 @@ Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
 
 ![13](https://github.com/Vistx/Modbus-implementation/assets/123487221/3cbc9467-56b8-4d83-b0ab-49f0ec257e42)
 
-- To call the firts (ID 1) device change the parameters to the the shown function
+- To call the first device (ID 1) change the parameters to the the shown function
   
 ![1 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/f2ddfe25-a26b-4910-b4b7-9075b40c612a)
 
-- To call the second (ID 2) device change the parameters to the the shown function
+- To call the second device (ID 2) change the parameters to the the shown function
 
 ![2 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/dd2da17c-2064-43bf-9051-7651f57f635a)
 
-- To call the third (ID 3) device change the parameters to the the shown function
+- To call the third device (ID 3) change the parameters to the the shown function
 
 ![3 l](https://github.com/Vistx/Modbus-implementation/assets/123487221/941e9ce2-39ac-49dd-8aa3-85235522f8e6)
 
