@@ -45,8 +45,7 @@ Connect  the max 485 module to the ESP 32 like so :
 - Connect **A** and **B** pins from the **Max485** module to the 
 **A**(D+) and **B**(D-) of the USB to RS485 module
   
-![Connection1](https://github.com/Vistx/Modbus-implementation/assets/123487221/49164148-40c9-432c-93fd-67ecf91ee66f)
-
+![1](https://github.com/Vistx/Modbus-implementation/assets/123487221/85f57011-20ac-40f1-90e6-9c032bfc66f0)
 
 
 
@@ -55,21 +54,21 @@ Connect  the max 485 module to the ESP 32 like so :
 
 - **Open Project :**  Modbus-implementation / Simple_Example /[Simple Modbus Slave Esp32](https://github.com/Vistx/Modbus-implementation/tree/main/Simple_Example/Simple%20Modbus%20Slave%20Esp32)  **With PlatformIO**
 
-![Open project](https://github.com/Vistx/Modbus-implementation/assets/123487221/4c54aed1-d1e6-4610-91e6-3c2a24059353)
+![2](https://github.com/Vistx/Modbus-implementation/assets/123487221/56377312-3af0-402e-8b53-d0bbd5b95c5d)
 
 
 - **Upload the code to your ESP32**
 
-![Upload to ESP32](https://github.com/Vistx/Modbus-implementation/assets/123487221/a6d447b1-fde5-4d70-a42d-aa768d30496c)
+![3](https://github.com/Vistx/Modbus-implementation/assets/123487221/7b472964-d032-4bdb-a2b1-38461929dccf)
 
 - **Open GUI:** Modbus-implementation / Simple_Example /
-[SimpleFunctionGui](https://github.com/Vistx/Modbus-implementation/tree/main/Simple_Example/SimpleFunctionGui) with **Visual Studio 2019**
+![4](https://github.com/Vistx/Modbus-implementation/assets/123487221/e38ac4a1-360c-4e29-ade4-a37a06e3633d)
    
-![VS GUI](https://github.com/Vistx/Modbus-implementation/assets/123487221/5d0fecc4-8345-4c1b-8732-4036c656d786)
+
 
 - **Connect** and do **Read and Write Holding Registers** operations
+![5](https://github.com/Vistx/Modbus-implementation/assets/123487221/86fbf0ba-6f60-4993-ac28-219f110f89db)
 
-![Gui in action](https://github.com/Vistx/Modbus-implementation/assets/123487221/041a78f2-7641-451b-b8db-684827c5f5fd)
 
 
 # 👨‍🏫 Code Explanation and Important Details 
@@ -77,7 +76,8 @@ Connect  the max 485 module to the ESP 32 like so :
 
 `Also, the slave ID in the ESP32  must match the ID of the called function in C# .  `
 
-![Untitled1](https://github.com/Vistx/Modbus-implementation/assets/123487221/4d8b92f5-e57a-4f2f-a696-cc858aa7fa39)
+![6](https://github.com/Vistx/Modbus-implementation/assets/123487221/98ac7a25-4b0f-4e4b-9faf-67f876d6d29c)
+
 
  `Technically, you can connect over 240 slave devices on the same serial connection, all you have to do is change the slave ID for each one and call the specific device by that unique ID from the GUI.`
 
@@ -90,7 +90,8 @@ Connect  the max 485 module to the ESP 32 like so :
 
 ## 🔌 Wiring
 
-![Example 1 Pinoutres](https://github.com/Vistx/Modbus-implementation/assets/123487221/5b3c8281-07c9-421c-b0d4-0dc0064464ef)
+![7](https://github.com/Vistx/Modbus-implementation/assets/123487221/2d882bd6-441d-4bcc-bee1-c2590ac118e1)
+
 
 
 **Module-->ESP32**
@@ -103,9 +104,10 @@ Connect  the max 485 module to the ESP 32 like so :
 
 
 ## 🔎 Details
-Each of the numbers in the Modbus RTU message represents the bit position of the matrix but expressed in decimal form. 
+Each of the numbers in the Modbus RTU message represents the bit position of the matrix but expressed in decimal form.
 
-![Screenshot 2023-10-23 110335](https://github.com/Vistx/Modbus-implementation/assets/123487221/1012993d-7afb-4896-a404-1434d5cf36fc)
+![8](https://github.com/Vistx/Modbus-implementation/assets/123487221/9350f605-493b-4b5a-8a62-1cbd16fb396b)
+
 {[img source](https://randomnerdtutorials.com/guide-for-8x8-dot-matrix-max7219-with-arduino-pong-game/)}
 
 
@@ -123,7 +125,8 @@ Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
 - or directly : **Example1/GUI Led matrix/WindowsFormsApp1//bin/Debug/WindowsFormsApp1.exe**
 - Connect with your settings tuch the interactive LEDs  and **Send(Message)**
 
-![Final example1 ](https://github.com/Vistx/Modbus-implementation/assets/123487221/a774abf7-b6ed-4fc3-b4d2-e0216c61cf7c)
+![9](https://github.com/Vistx/Modbus-implementation/assets/123487221/1703cf07-0235-4f30-8785-c20a3554e83b)
+
 
 
 
@@ -141,8 +144,8 @@ Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
 # Example 2
 
 ## 🔌 Wiring
+![10](https://github.com/Vistx/Modbus-implementation/assets/123487221/37496fca-ecdc-4b10-b0d4-5d3340fc3271)
 
-![example 2 Pin Conres](https://github.com/Vistx/Modbus-implementation/assets/123487221/9142f0b6-ecaa-46fc-87a4-277e93efd6b0)
 
 - Vcc --> +5v
 - Gnd --> GND
@@ -154,7 +157,8 @@ Upload the code from **Example1/ESP32 Code With VScode/** to the ESP32
 
 As stated earlier it's not recommended to use the delay function when using the Modbus slave library so instead we used millis()([how to](https://circuitdigest.com/microcontroller-projects/arduino-multitasking-using-millis-in-arduino#:~:text=To%20use%20the%20millis%28%29,unsigned%20long%20currentMillis%20=%20millis%28%29;)) , to update Modbus registers and the HCSR 04 readings.
 
-![details exmp1res](https://github.com/Vistx/Modbus-implementation/assets/123487221/336a4fd6-2757-47a6-8044-ad2281fa717a)
+![11](https://github.com/Vistx/Modbus-implementation/assets/123487221/3a42715a-2cd2-4c78-97a7-437a953c600c)
+
 
 Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
 
@@ -163,11 +167,10 @@ Upload the code from **Example2/Modbus Rtu With Hc-sr04** to the ESP32
 - or directly : **Example2/HCSR04DisplayReadings/bin/Debug/HCSR04DisplayReadings.exe**
 - Connect with your settings and dont forget to set the request interval the unit is miliseconds
 
-![Example 2 final](https://github.com/Vistx/Modbus-implementation/assets/123487221/384db91e-85a9-4fc3-9227-9ff6638f2788)
-
+![12](https://github.com/Vistx/Modbus-implementation/assets/123487221/8d2276f6-0aa4-427a-aea6-e064755be413)
 
 # Multiple ESP-32 Slave devices
-![multiple arduinos final](https://github.com/Vistx/Modbus-implementation/assets/123487221/df9c0212-8ac0-43a1-9560-d0f601613279)
+![13](https://github.com/Vistx/Modbus-implementation/assets/123487221/3cbc9467-56b8-4d83-b0ab-49f0ec257e42)
 
 - To call the firts (ID 1) device change the parameters to the the shown function 
 ![master1](https://github.com/Vistx/Modbus-implementation/assets/123487221/b74be6dd-96c0-45a2-bfed-79861c357c36)
