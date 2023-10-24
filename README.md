@@ -20,7 +20,7 @@ Read more about the **Modbus RTU** [here](https://ozeki.hu/p_5854-modbus-rtu.htm
 - C# with Visual Studio 2019
 -  C++ with Visual Studio Code  and PlatformIO extension installed [[**tutorial here**]](https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/) 
 
-## 📖 Libraries 
+## 📖 Libraries used in this project 
 - NModbus4 from NuGet ( [**tutorial** ](https://www.youtube.com/watch?v=ohaz_sPLp4Y)) in C# WinForms
 - Modbus Master Slave for Arduino [**github repo**](https://github.com/smarmengol/Modbus-Master-Slave-for-Arduino) [**(setup in VScode tutorial)**](https://www.youtube.com/watch?v=EBlHNBNHESQ)
 - **Example 1** uses  [this](https://github.com/MajicDesigns/MD_MAX72XX) library with Platform  IO for max7219 module
@@ -74,7 +74,7 @@ Connect  the max 485 module to the ESP 32 like so :
 
 
 # 👨‍🏫 Code Explanation and Important Details 
-`On the ESP32 side of the code, the serial begin baudrate must match  the selected baudrate  in the GUI application. Also the COMport must be in use by other software `
+`On the ESP32 side of the code, the serial begin baudrate must match  the selected baudrate  in the GUI application. Also the COMport must not be in use by other software `
 
 `Also, the slave ID in the ESP32  must match the ID of the called function in C# .  `
 
